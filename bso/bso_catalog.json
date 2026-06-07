@@ -9,7 +9,9 @@
       "spotify_track_id": "4VF8YWqMsY3Y1UcKJBg5XO",
       "tmdb_id": 12230,
       "tmdb_poster": "/2Bt5iwJ0bMPWgIMBVTJPtI7onbe.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "12 Hombres Sin Piedad",
@@ -21,7 +23,9 @@
       "spotify_track_id": "0cnyFyT5ctCZcUoidizePe",
       "tmdb_id": 389,
       "tmdb_poster": "/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "2001: Una Odisea Del Espacio",
@@ -33,7 +37,11 @@
       "spotify_track_id": "43YwOmGUOS3zzGvj1Feszb",
       "tmdb_id": 62,
       "tmdb_poster": "/sln50uQYigvu5AvN72JfYfu1ckq.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "ciencia_ficcion"
+    ]
   },
   {
     "film": "28 Días Después",
@@ -45,7 +53,9 @@
       "spotify_track_id": "47AsriNLhUcdnMAB9UPFxx",
       "tmdb_id": 170,
       "tmdb_poster": "/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "8 Millas",
@@ -57,7 +67,9 @@
       "spotify_track_id": "1a3xfVZyJnlKn4t65ccBbp",
       "tmdb_id": 65,
       "tmdb_poster": "/bRSMRkf06aUeZcmr5Cyxuv5vk4T.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Aladdin (aladino)",
@@ -69,7 +81,11 @@
       "spotify_track_id": "1EklDiRTYbeaIwnszQLGzI",
       "tmdb_id": 343693,
       "tmdb_poster": "/6NGjDdErVOmnoqLnjh0ouRfxerS.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "animacion"
+    ]
   },
   {
     "film": "Algo Para Recordar",
@@ -81,7 +97,9 @@
       "spotify_track_id": "34jAkbORFZkPpn8lwuHPPD",
       "tmdb_id": 858,
       "tmdb_poster": "/1buV1tX56kIqRo6FomnmoMIPbj1.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Alicia En El País De Las Maravillas",
@@ -93,7 +111,9 @@
       "spotify_track_id": "04kx6QHqnBwpxC7kdRlCsn",
       "tmdb_id": 12092,
       "tmdb_poster": "/zOJKtTdToc8FcjmmbavkjUxv2Ue.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Amadeus",
@@ -105,7 +125,9 @@
       "spotify_track_id": "30BM5cysrUvZYzu4oMRPhZ",
       "tmdb_id": 279,
       "tmdb_poster": "/nI24KqCadkHbjF4LpVHmUhQRNDn.jpg"
-    }
+    },
+    "difficulty": 3,
+    "genres": []
   },
   {
     "film": "American Beauty",
@@ -117,7 +139,9 @@
       "spotify_track_id": "5uuZI0l5SMRMAIVzPl1xgU",
       "tmdb_id": 14,
       "tmdb_poster": "/wdXHzwh4DCifigYD50YEYM6CJS3.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Amelie",
@@ -129,7 +153,9 @@
       "spotify_track_id": "1Re30B3AC2Ra8n4f2xsDW3",
       "tmdb_id": 194,
       "tmdb_poster": "/mYvUib00miJWxWkiXhy3QnrCj96.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Apocalypse Now",
@@ -141,7 +167,9 @@
       "spotify_track_id": "7JczDg05i29N5C3VMZKIVA",
       "tmdb_id": 28,
       "tmdb_poster": "/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Armageddon",
@@ -153,7 +181,9 @@
       "spotify_track_id": "225xvV8r1yKMHErSWivnow",
       "tmdb_id": 95,
       "tmdb_poster": "/yYtlk1E28L1kQG6VcazkHhv29Ur.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Bambi",
@@ -165,7 +195,9 @@
       "spotify_track_id": "6j7vVEX8LcCrSkEnsZbP3T",
       "tmdb_id": 3170,
       "tmdb_poster": "/q9LI5Uloz1WRqaJjr8Tq2aOeSeH.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Barry Lyndon",
@@ -177,7 +209,9 @@
       "spotify_track_id": "2Xgz3y903BxnPdjgA7FDiP",
       "tmdb_id": 3175,
       "tmdb_poster": "/x28u4tvapVCPaVWHyvrEyLZWyk8.jpg"
-    }
+    },
+    "difficulty": 3,
+    "genres": []
   },
   {
     "film": "Batman",
@@ -189,7 +223,9 @@
       "spotify_track_id": "50csT5Qb2qOF7lHdDQ1Sbx",
       "tmdb_id": 268,
       "tmdb_poster": "/fpY5cNPIbKYpdBtukCMtBMMt1s3.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Ben-hur",
@@ -201,7 +237,9 @@
       "spotify_track_id": "7sBqkVK07Gj1O1MZIfPSV2",
       "tmdb_id": 665,
       "tmdb_poster": "/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Blade Runner",
@@ -213,7 +251,9 @@
       "spotify_track_id": "1u1ATklwZesAvq1whHsI8Z",
       "tmdb_id": 78,
       "tmdb_poster": "/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Blancanieves Y Los Siete Enanitos",
@@ -225,7 +265,9 @@
       "spotify_track_id": "6JKHBduEoHjQeTfA2luHL5",
       "tmdb_id": 408,
       "tmdb_poster": "/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Braveheart",
@@ -237,7 +279,9 @@
       "spotify_track_id": "2lcKQSeE9YSs3K3AOvhv98",
       "tmdb_id": 197,
       "tmdb_poster": "/cDMYybBU4COJfTwcPgnihwY5EiP.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Brokeback Mountain: En Terreno Vedado",
@@ -249,7 +293,9 @@
       "spotify_track_id": "0SmxJoIlgyZbeZgqO1v9hq",
       "tmdb_id": 142,
       "tmdb_poster": "/kRgrTPM6uDiLBgASk8j3RBTE49d.jpg"
-    }
+    },
+    "difficulty": 3,
+    "genres": []
   },
   {
     "film": "Cabaret",
@@ -261,7 +307,9 @@
       "spotify_track_id": "7AFy1aN1RQVgGOXzCtrK87",
       "tmdb_id": 10784,
       "tmdb_poster": "/5l7V58hgBEPZDQGFw162oJV9d3q.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Cadena Perpetua",
@@ -273,7 +321,9 @@
       "spotify_track_id": "5qWFRThiYrdNTFAkvGnlwc",
       "tmdb_id": 278,
       "tmdb_poster": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Cantando Bajo La Lluvia",
@@ -285,7 +335,9 @@
       "spotify_track_id": "04FV3YofsJsPVKTZbScTbK",
       "tmdb_id": 872,
       "tmdb_poster": "/5r8jD5R6EzpQ5VLodbzTNhvKcGw.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Carros De Fuego",
@@ -297,7 +349,9 @@
       "spotify_track_id": "6GxhckZeqoWNF9n9XS91HS",
       "tmdb_id": 9443,
       "tmdb_poster": "/pXgqJhGWRJJCzVfnsSRCDTvxyjL.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Casino Royale",
@@ -309,7 +363,9 @@
       "spotify_track_id": "0OQAko9qXFwMhLQO4o48nU",
       "tmdb_id": 36557,
       "tmdb_poster": "/2Tygvjqrd6EfvOLwuS7bEIbHwH9.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Chinatown",
@@ -321,7 +377,9 @@
       "spotify_track_id": "4Zucyo10zPhTN0oIIn1i6U",
       "tmdb_id": 829,
       "tmdb_poster": "/1wO2OmUCWButQyVPGWQEZn5twca.jpg"
-    }
+    },
+    "difficulty": 3,
+    "genres": []
   },
   {
     "film": "Cinema Paradiso",
@@ -333,7 +391,9 @@
       "spotify_track_id": "0FFOaRW0WTJgd12cKEKuaC",
       "tmdb_id": 11216,
       "tmdb_poster": "/hHwsr3t5n7VVUbPyU8VZswn0jkL.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Coco",
@@ -345,7 +405,9 @@
       "spotify_track_id": "7leda3SKodxvAVgqWfN9aA",
       "tmdb_id": 354912,
       "tmdb_poster": "/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Conan, El Bárbaro",
@@ -357,7 +419,11 @@
       "spotify_track_id": "5mxTww2EuHbK0txi7U5C0A",
       "tmdb_id": 9387,
       "tmdb_poster": "/Avfp508AE3GlTIiEIzu8ZB9goKp.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "aventura"
+    ]
   },
   {
     "film": "Desayuno Con Diamantes",
@@ -369,7 +435,9 @@
       "spotify_track_id": "1XwAKjAZ1xDZOcuyZoqce4",
       "tmdb_id": 164,
       "tmdb_poster": "/aHFIHN7yenVYk1wkDWJ7hs1czh4.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Deseando Amar",
@@ -381,7 +449,9 @@
       "spotify_track_id": "0yVq58uQ2Bp2OVADYlLHNk",
       "tmdb_id": 843,
       "tmdb_poster": "/ivyPPBVdDcwJy8LI8xccDFZqIaU.jpg"
-    }
+    },
+    "difficulty": 3,
+    "genres": []
   },
   {
     "film": "Dirty Dancing",
@@ -393,7 +463,9 @@
       "spotify_track_id": "6W7ztLBiRzBN46ZaPAcQ0F",
       "tmdb_id": 88,
       "tmdb_poster": "/Bqk2YfJRetrcKXnkavJZcqKpUC.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Django Desencadenado",
@@ -405,7 +477,9 @@
       "spotify_track_id": "6I2BDcHnG8De0Kn7mVSNZE",
       "tmdb_id": 68718,
       "tmdb_poster": "/fIxAE6BKfAzhPRYm7DdldBaYu5T.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Doctor Zhivago",
@@ -417,7 +491,9 @@
       "spotify_track_id": "6pXuC0wUEa4uZ9joYQKv21",
       "tmdb_id": 907,
       "tmdb_poster": "/ewV2RlSlMs5jRKVlFNHZ9u8t6Ms.jpg"
-    }
+    },
+    "difficulty": 3,
+    "genres": []
   },
   {
     "film": "Donnie Darko",
@@ -429,7 +505,9 @@
       "spotify_track_id": "3JOVTQ5h8HGFnDdp4VT3MP",
       "tmdb_id": 141,
       "tmdb_poster": "/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Drive",
@@ -441,7 +519,9 @@
       "spotify_track_id": "0U0ldCRmgCqhVvD6ksG63j",
       "tmdb_id": 64690,
       "tmdb_poster": "/r63LaAngw0LAkgYmvA5gllmOUjm.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Drácula De Bram Stoker",
@@ -453,7 +533,9 @@
       "spotify_track_id": "4PmjolpLqJ9G14l2ORO06x",
       "tmdb_id": 6114,
       "tmdb_poster": "/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Dumbo",
@@ -465,7 +547,9 @@
       "spotify_track_id": "0QLgTsCvNIzd9283adAF6Q",
       "tmdb_id": 11360,
       "tmdb_poster": "/xXBX2G5dc2WUZslcWuAXYKvYKoI.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "E.t. El Extraterrestre",
@@ -477,7 +561,9 @@
       "spotify_track_id": "5NHDsqd1YrYqTJxaLddelw",
       "tmdb_id": 601,
       "tmdb_poster": "/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Easy Rider (buscando Mi Destino)",
@@ -489,7 +575,9 @@
       "spotify_track_id": "63OFKbMaZSDZ4wtesuuq6f",
       "tmdb_id": 624,
       "tmdb_poster": "/aj7TJr1A2QzlAjx5fBxM4NLSObE.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Bosque",
@@ -501,7 +589,9 @@
       "spotify_track_id": "5ynPIIbdGo2OBoX9vcnUo5",
       "tmdb_id": 6947,
       "tmdb_poster": "/2urZW6YNuWHLwY63Q5d6RfCzOdx.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Bueno, El Feo Y El Malo",
@@ -513,7 +603,9 @@
       "spotify_track_id": "5pB2NnApayVJ6mvpa8XfjU",
       "tmdb_id": 429,
       "tmdb_poster": "/71HKV5F9bfm05ZZnjGmRuFpUVCo.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Caballero Oscuro",
@@ -525,7 +617,9 @@
       "spotify_track_id": "1wdoaja3ueHHvzobn2jE2n",
       "tmdb_id": 155,
       "tmdb_poster": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Club De Los Cinco",
@@ -537,7 +631,9 @@
       "spotify_track_id": "5Y8Rj0s6wuM5DlQdllYiWl",
       "tmdb_id": 2108,
       "tmdb_poster": "/f0DhsS50Ksn6rBZhwsH9Rgh9xGi.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Exorcista",
@@ -549,7 +645,9 @@
       "spotify_track_id": "2kdvvPKkK7HHKmaUrjRYFV",
       "tmdb_id": 9552,
       "tmdb_poster": "/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Graduado",
@@ -561,7 +659,9 @@
       "spotify_track_id": "3YfS47QufnLDFA71FUsgCM",
       "tmdb_id": 37247,
       "tmdb_poster": "/z8QQ9T38rNEoCHlqHMgcJfwbZRd.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Gran Showman",
@@ -573,7 +673,9 @@
       "spotify_track_id": "45aBsnKRWUzhwbcqOJLwfe",
       "tmdb_id": 316029,
       "tmdb_poster": "/5HjkqEeLPubkMPM9TgV6kB3Iyn0.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Guardaespaldas",
@@ -585,7 +687,9 @@
       "spotify_track_id": "4eHbdreAnSOrDDsFfc4Fpm",
       "tmdb_id": 619,
       "tmdb_poster": "/pnGQbumT2SejsZprnszaI2bLA4R.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Jorobado De Notre Dame",
@@ -597,7 +701,9 @@
       "spotify_track_id": "7jZcWttgE7HF35YeB9dzq8",
       "tmdb_id": 10545,
       "tmdb_poster": "/pvnmJckCNgzEbuE5sHXX3tDRQox.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Libro De La Selva",
@@ -609,7 +715,9 @@
       "spotify_track_id": "2Yy18WPd9Ho4RTJHE64boS",
       "tmdb_id": 9325,
       "tmdb_poster": "/1w8wk8htVPW5cdCYnRU4bt5y5Fw.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Padrino",
@@ -621,7 +729,11 @@
       "spotify_track_id": "3WoSJF85H0qywD4qLp4HDd",
       "tmdb_id": 238,
       "tmdb_poster": "/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": [
+      "crimen"
+    ]
   },
   {
     "film": "El Pianista",
@@ -633,7 +745,9 @@
       "spotify_track_id": "0KhT24AgBxl4GjUB4Yz5fZ",
       "tmdb_id": 423,
       "tmdb_poster": "/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Piano",
@@ -645,7 +759,9 @@
       "spotify_track_id": "4RW7EZi7SHSLRwvn1Q8Mqj",
       "tmdb_id": 713,
       "tmdb_poster": "/6Dr3APk7mPUpiqbLrHXQG9nJ0R9.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Planeta De Los Simios",
@@ -657,7 +773,9 @@
       "spotify_track_id": "57ZFW90qBiXxuhsPQqzDhR",
       "tmdb_id": 871,
       "tmdb_poster": "/pMLpuzyeXFsttiW0dHzJLH5FXyK.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Precio Del Poder",
@@ -669,7 +787,9 @@
       "spotify_track_id": "51wm7yXftCtK0ySLfN3kHD",
       "tmdb_id": 111,
       "tmdb_poster": "/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Puente Sobre El Río Kwai",
@@ -681,7 +801,9 @@
       "spotify_track_id": "26mF0jZZvtkZrW3Uff0n6F",
       "tmdb_id": 826,
       "tmdb_poster": "/z5uKyonXIGiVub5RtJKaPgGevlI.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "El Rey León",
@@ -693,7 +815,11 @@
       "spotify_track_id": "1VHZrdrUFov4MX4X3gHULf",
       "tmdb_id": 8587,
       "tmdb_poster": "/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": [
+      "animacion"
+    ]
   },
   {
     "film": "El Último Mohicano",
@@ -705,7 +831,9 @@
       "spotify_track_id": "010zZfqsh3WFVlsIpwA2HI",
       "tmdb_id": 9361,
       "tmdb_poster": "/mM9ewvwSZM5DdHFeSaFtRJYDCij.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "En Busca Del Arca Perdida",
@@ -717,7 +845,9 @@
       "spotify_track_id": "0fbqMPKPdpvbWOnJrsQLCO",
       "tmdb_id": 85,
       "tmdb_poster": "/tECLVwLCMexSkls33RTCwedRZ6d.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Encanto",
@@ -729,7 +859,11 @@
       "spotify_track_id": "5QKk5N5xJQGsWMhPM80Kfv",
       "tmdb_id": 568124,
       "tmdb_poster": "/d0ezQ1Jz0lpNsX1skEmIvqRL7mN.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "animacion"
+    ]
   },
   {
     "film": "Encuentros En La Tercera Fase",
@@ -741,7 +875,9 @@
       "spotify_track_id": "6tvzakkt80JJBQDwv7gOJ2",
       "tmdb_id": 840,
       "tmdb_poster": "/btE3LrMhuFa8sfPGxHRC4hGyEjr.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Enredados",
@@ -753,7 +889,9 @@
       "spotify_track_id": "3pi3G64D1hqJrsXd7t4eUb",
       "tmdb_id": 38757,
       "tmdb_poster": "/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Fantasía",
@@ -765,7 +903,9 @@
       "spotify_track_id": "6X3CvSxTWtCKHgyWV6DfDT",
       "tmdb_id": 756,
       "tmdb_poster": "/qCaPIUrbKsUKKFPykmKxc6bPbo0.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Fiebre Del Sábado Noche",
@@ -777,7 +917,9 @@
       "spotify_track_id": "13SpmZVSu9m6SmsQuCYpF3",
       "tmdb_id": 11009,
       "tmdb_poster": "/qgwWjfpgGvUPoWXdq5kPLii6AOr.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Flash Gordon",
@@ -789,7 +931,9 @@
       "spotify_track_id": "5aswWmjJLHBSYFknQjegfg",
       "tmdb_id": 3604,
       "tmdb_poster": "/uyHg2QH4B34fp941h0pGs4E9kxJ.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Flashdance",
@@ -801,7 +945,9 @@
       "spotify_track_id": "5Tpowbea8HKSOCDC6Z0QC2",
       "tmdb_id": 535,
       "tmdb_poster": "/pCZAf3d14wzhLPZRAOWjRpqgvWG.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Footloose",
@@ -813,7 +959,9 @@
       "spotify_track_id": "2vz1CsL5WBsbpBcwgboTAw",
       "tmdb_id": 1788,
       "tmdb_poster": "/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Forrest Gump",
@@ -825,7 +973,9 @@
       "spotify_track_id": "655OjsI6LbHdo3565qEfbE",
       "tmdb_id": 13,
       "tmdb_poster": "/azV6hV99lYkdhydsQbJCI6FqMl4.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Frozen: El Reino Del Hielo",
@@ -837,7 +987,11 @@
       "spotify_track_id": "59g9tRMoYFB0eVeqamx3Pp",
       "tmdb_id": 109445,
       "tmdb_poster": "/sGNuWC4BwqOB4l0tkbKwLy70tXC.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "animacion"
+    ]
   },
   {
     "film": "Full Monty",
@@ -849,7 +1003,9 @@
       "spotify_track_id": "1x9iOd3K1JC6tdjGZJpFgZ",
       "tmdb_id": 9427,
       "tmdb_poster": "/hZorGSNfwMUP8dU6C8HtIS0D9OO.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Ghost (más Allá Del Amor)",
@@ -861,7 +1017,9 @@
       "spotify_track_id": "2qhASBzpbFhPRtrnZ5lLnz",
       "tmdb_id": 251,
       "tmdb_poster": "/gwli1EMll3AJfL5waL9SWEtg3ZI.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Gladiator",
@@ -873,7 +1031,11 @@
       "spotify_track_id": "2rBUT42i2t1wsfCmkn1TYA",
       "tmdb_id": 98,
       "tmdb_poster": "/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": [
+      "aventura"
+    ]
   },
   {
     "film": "Goldeneye",
@@ -885,7 +1047,9 @@
       "spotify_track_id": "528QhCT2v3HgD71RmrSUNW",
       "tmdb_id": 710,
       "tmdb_poster": "/plvWFyL4tQXgWOae0P8A4hECWLD.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Good Bye, Lenin!",
@@ -897,7 +1061,9 @@
       "spotify_track_id": "6VfbrkjPu99TsjTG9PvMkU",
       "tmdb_id": 338,
       "tmdb_poster": "/32mQrRhkZofgMmGEHVNsTUHARWr.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Granujas A Todo Ritmo",
@@ -909,7 +1075,9 @@
       "tags": [
         "<TMDB_NO_MATCH>"
       ]
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Grease",
@@ -921,7 +1089,9 @@
       "spotify_track_id": "6X1D6qbVmK48uoOD9nIvVV",
       "tmdb_id": 621,
       "tmdb_poster": "/flSy0dexE82TiS6Si2FtulSHk8o.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Ha Nacido Una Estrella",
@@ -933,7 +1103,9 @@
       "spotify_track_id": "5lK18Pt33xNudq4qYDxIm8",
       "tmdb_id": 332562,
       "tmdb_poster": "/jAdNHXbswMuIhcRInIzphZvJElA.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Hacia Rutas Salvajes",
@@ -945,7 +1117,9 @@
       "spotify_track_id": "4LGF2tDg3878bs0mQPByZ4",
       "tmdb_id": 5915,
       "tmdb_poster": "/nsukpCUlvOfcZEcMIBN1m4coUkd.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Harry Potter Y La Piedra Filosofal",
@@ -957,7 +1131,9 @@
       "spotify_track_id": "1n8NKQRg8LVHy7oUhUgbFF",
       "tmdb_id": 671,
       "tmdb_poster": "/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Hasta Que Llegó Su Hora",
@@ -969,7 +1145,9 @@
       "spotify_track_id": "7sEpQIyx0ot2t6PhT7ycTZ",
       "tmdb_id": 335,
       "tmdb_poster": "/upiek8u4rHTrOJW9B0woXe4A4h7.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Hércules",
@@ -981,7 +1159,9 @@
       "spotify_track_id": "1kIKCaRH85flXDJUKoxlUJ",
       "tmdb_id": 11970,
       "tmdb_poster": "/iwjP7ImLzXZjKHnCUChJThEtNJG.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Instinto Básico",
@@ -993,7 +1173,9 @@
       "spotify_track_id": "0W3Fv89IF7mdPBY8glohzu",
       "tmdb_id": 402,
       "tmdb_poster": "/7iUhPh6B5C4T1osYDzoUchjb3i4.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Interstellar",
@@ -1005,7 +1187,11 @@
       "spotify_track_id": "5aaXqH8rgKZxg61HjECldi",
       "tmdb_id": 157336,
       "tmdb_poster": "/9cTfZWP5TfdnmAjiD6ZBXWIJ7O9.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "ciencia_ficcion"
+    ]
   },
   {
     "film": "Jumanji",
@@ -1017,7 +1203,9 @@
       "spotify_track_id": "7g2TbwNJEYIT7rVNezxS3l",
       "tmdb_id": 8844,
       "tmdb_poster": "/m67M2wXLKblJLuJlvF7qaGrGfCa.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Karate Kid, El Momento De La Verdad",
@@ -1029,7 +1217,9 @@
       "spotify_track_id": "4zXa17K83Pp6N2yXdVc2sv",
       "tmdb_id": 1885,
       "tmdb_poster": "/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Kill Bill: Volumen 1",
@@ -1041,7 +1231,9 @@
       "spotify_track_id": "6Q32Vkucx2qeuVyBd3NiFZ",
       "tmdb_id": 24,
       "tmdb_poster": "/j5HFN6ZbGqZepIQ7sZRX9dMu8uk.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Bella Durmiente",
@@ -1053,7 +1245,9 @@
       "spotify_track_id": "4d2EiN35xmFmta9A6P8Szu",
       "tmdb_id": 10882,
       "tmdb_poster": "/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Bella Y La Bestia",
@@ -1065,7 +1259,9 @@
       "spotify_track_id": "3aIWk6cAloGJHiThErsYA4",
       "tmdb_id": 10020,
       "tmdb_poster": "/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Cenicienta",
@@ -1077,7 +1273,9 @@
       "spotify_track_id": "675IIpWm7w2DSJh4eVB8tI",
       "tmdb_id": 11224,
       "tmdb_poster": "/vqzeSm5Agvio7DahhKXaySUbUUW.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Familia Addams",
@@ -1089,7 +1287,9 @@
       "spotify_track_id": "7BOED8Z0Mu9tsivXSPGGk1",
       "tmdb_id": 2907,
       "tmdb_poster": "/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Gran Evasión",
@@ -1101,7 +1301,9 @@
       "spotify_track_id": "6R1ZwMtCBuqJyXcqVUSNBF",
       "tmdb_id": 5925,
       "tmdb_poster": "/zyXTt4nDNBbS0oULtDuiFpzhA4x.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Historia Interminable",
@@ -1113,7 +1315,9 @@
       "spotify_track_id": "2IAQnOWKWjj1iA166KznVd",
       "tmdb_id": 34584,
       "tmdb_poster": "/rXAJUv3QfGxIEo8pVAjRPS58paB.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Ciudad De Las Estrellas (la La Land)",
@@ -1125,7 +1329,9 @@
       "spotify_track_id": "5BMwpS4iYKR30kq9U9beaT",
       "tmdb_id": 313369,
       "tmdb_poster": "/7pFsAaJmiOppVHcldBzg8JKBHwe.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Lista De Schindler",
@@ -1137,7 +1343,9 @@
       "spotify_track_id": "42gZM6AQ9BDMaTyTmMDVlN",
       "tmdb_id": 424,
       "tmdb_poster": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Misión",
@@ -1149,7 +1357,9 @@
       "spotify_track_id": "6opPrJUpq4Pl5c84eCwLmo",
       "tmdb_id": 11416,
       "tmdb_poster": "/rubwmohm8t5TTtBZyYQ9BHOwDUQ.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Naranja Mecánica",
@@ -1161,7 +1371,9 @@
       "spotify_track_id": "3NQGeHhdlonJjjRm9WolLp",
       "tmdb_id": 185,
       "tmdb_poster": "/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Pantera Rosa",
@@ -1173,7 +1385,9 @@
       "spotify_track_id": "2hZvunBugBIVF8wPDAIA35",
       "tmdb_id": 936,
       "tmdb_poster": "/v9yCA2YBRvdfVlwGuvDJGJGBMrX.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "La Sirenita",
@@ -1185,7 +1399,9 @@
       "spotify_track_id": "3F32sDOVMpyVWOvIoYv1IM",
       "tmdb_id": 10144,
       "tmdb_poster": "/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Vida Es Bella",
@@ -1197,7 +1413,9 @@
       "spotify_track_id": "45zxRp4Xz2X1CHq39D2csb",
       "tmdb_id": 637,
       "tmdb_poster": "/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Lawrence De Arabia",
@@ -1209,7 +1427,9 @@
       "spotify_track_id": "2Senxmx6GnCNkRMaXWXm1y",
       "tmdb_id": 947,
       "tmdb_poster": "/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg"
-    }
+    },
+    "difficulty": 3,
+    "genres": []
   },
   {
     "film": "Leyendas De Pasión",
@@ -1221,7 +1441,9 @@
       "spotify_track_id": "6vtY2LUeXJ7KISwgiTu0Ph",
       "tmdb_id": 4476,
       "tmdb_poster": "/fZjjcVq8YTOUSN6PYTIS009FsmW.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Lo Que El Viento Se Llevó",
@@ -1233,7 +1455,9 @@
       "spotify_track_id": "2twuNa8EX4asJ2Zuvcav6l",
       "tmdb_id": 770,
       "tmdb_poster": "/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Los Aristogatos",
@@ -1245,7 +1469,9 @@
       "spotify_track_id": "7JFMaCszgik6Ay4WWeG1i3",
       "tmdb_id": 10112,
       "tmdb_poster": "/s9DsxlbVE1HvHnCz50GdHDBeZRy.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Los Cazafantasmas",
@@ -1257,7 +1483,9 @@
       "spotify_track_id": "0phGofl3ppS5Itk1zM9eKa",
       "tmdb_id": 620,
       "tmdb_poster": "/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Los Chicos Del Coro",
@@ -1269,7 +1497,9 @@
       "spotify_track_id": "351GNhLMwBwzQsENirhFZN",
       "tmdb_id": 5528,
       "tmdb_poster": "/f0FrAsLdcnCbvbT9Ofj31UkmcNe.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Los Commitments",
@@ -1281,7 +1511,9 @@
       "spotify_track_id": "1XlCCgKKrQQfXaDyv4GrZe",
       "tmdb_id": 11663,
       "tmdb_poster": "/iccBDq9aS1gwi6b8aJjBgPU4t2D.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Los Inmortales",
@@ -1293,7 +1525,9 @@
       "spotify_track_id": "0Uy8lcDHiPDicBQ7rnDgcK",
       "tmdb_id": 8009,
       "tmdb_poster": "/5ZxKote3fuIt8woDhVm8Gm51Blf.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Los Intocables De Eliot Ness",
@@ -1305,7 +1539,11 @@
       "spotify_track_id": "0nvjvbgCHhRjBv0zIeX1Wi",
       "tmdb_id": 117,
       "tmdb_poster": "/pVcWaUbFDL76ObIsReIBQ5ILMHv.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "crimen"
+    ]
   },
   {
     "film": "Los Odiosos Ocho",
@@ -1317,7 +1555,9 @@
       "spotify_track_id": "2cI1OrvqZSGVfkf3PPybWF",
       "tmdb_id": 273248,
       "tmdb_poster": "/7DYGdFT4gtiD5BI6xyOU6v0XXvi.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Los Siete Magníficos",
@@ -1329,7 +1569,9 @@
       "spotify_track_id": "0lEtONdoCJJwUfmXUS2Zmk",
       "tmdb_id": 966,
       "tmdb_poster": "/eu7dxZWlufFOkDV99IzS7Xd7tp.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Malditos Bastardos",
@@ -1341,7 +1583,9 @@
       "spotify_track_id": "50oQKoR2p1x8Am8d2fetkW",
       "tmdb_id": 16869,
       "tmdb_poster": "/dqu7nUtKTLdpM7DaJvD4zcSXhn1.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Mary Poppins",
@@ -1353,7 +1597,9 @@
       "spotify_track_id": "4RpJiMN8lg77qHkFpb9A02",
       "tmdb_id": 433,
       "tmdb_poster": "/8hU9v0EYEiAWYOkROcy4iWnSNpl.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Matrix",
@@ -1365,7 +1611,11 @@
       "spotify_track_id": "6zbHSDJjgrNdfIxPyGfPBt",
       "tmdb_id": 603,
       "tmdb_poster": "/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "ciencia_ficcion"
+    ]
   },
   {
     "film": "Matrix Reloaded",
@@ -1377,7 +1627,11 @@
       "spotify_track_id": "6m7mgnkUOpQGzvaqdIeyye",
       "tmdb_id": 604,
       "tmdb_poster": "/7IZk3Xp3HIpRJGXFYNvzmyRwDlt.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "ciencia_ficcion"
+    ]
   },
   {
     "film": "Memorias De África",
@@ -1389,7 +1643,9 @@
       "spotify_track_id": "2CVcuBnF52i0gPba28XWgx",
       "tmdb_id": 606,
       "tmdb_poster": "/lovoT4KeD7iyKcDMFo8Y8lFtCle.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Misión Imposible",
@@ -1401,7 +1657,9 @@
       "spotify_track_id": "1lJOpbGH9gjjgcIumHIBrT",
       "tmdb_id": 954,
       "tmdb_poster": "/xCpmxw3UUjv4PGzbIPOHeoKAV0l.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Mortal Kombat",
@@ -1413,7 +1671,9 @@
       "spotify_track_id": "2hTx8adLNJBwhLsavI1Xvr",
       "tmdb_id": 9312,
       "tmdb_poster": "/yQA2tNUex9usFP4Tp6NEuZNGtxN.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Moulin Rouge",
@@ -1425,7 +1685,9 @@
       "spotify_track_id": "7GbqE3MlkKosIaCvf50JRK",
       "tmdb_id": 824,
       "tmdb_poster": "/hE7ovWkqKzPmgrXZhLRIA20Hx6F.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Mulán",
@@ -1437,7 +1699,11 @@
       "spotify_track_id": "3wwnCL9mlH3BaVEMm9wTiF",
       "tmdb_id": 10674,
       "tmdb_poster": "/towmTJ0k29quKI9IDnOZKAAtQx.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "animacion"
+    ]
   },
   {
     "film": "Oliver Y Su Pandilla",
@@ -1449,7 +1715,9 @@
       "spotify_track_id": "0wGh31bYM4IuRdJ7xTvgKN",
       "tmdb_id": 12233,
       "tmdb_poster": "/31pu0jSoa6iUouojFnjjlqgOnHB.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Once (una Vez)",
@@ -1461,7 +1729,9 @@
       "spotify_track_id": "6EIVLz5xM1xE29r0OmIkWt",
       "tmdb_id": 5723,
       "tmdb_poster": "/7nW363kSYRCkr4VGOMvuSGwtzKs.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Origen",
@@ -1473,7 +1743,9 @@
       "spotify_track_id": "6ZFbXIJkuI1dVNWvzJzown",
       "tmdb_id": 27205,
       "tmdb_poster": "/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Jurassic Park (parque Jurásico)",
@@ -1485,7 +1757,9 @@
       "spotify_track_id": "2TZbQZXOuR8osP2AK8yYMN",
       "tmdb_id": 329,
       "tmdb_poster": "/h831eszSFmEyr94WKcgscqPIRbh.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Pearl Harbor",
@@ -1497,7 +1771,9 @@
       "spotify_track_id": "2O0UWIMFeMtFR0LJMuIPjJ",
       "tmdb_id": 676,
       "tmdb_poster": "/ftkKVbk4sQEcekuaGJvpvXcNs32.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Pesadilla Antes De Navidad",
@@ -1509,11 +1785,13 @@
       "spotify_track_id": "1CYjYSg9sdtbBoxSf8uhFD",
       "tmdb_id": 9479,
       "tmdb_poster": "/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Peter Pan",
-    "year": 2021,
+    "year": 1953,
     "song": "La Estrella Que Nos Vió Nacer (tema Principal)",
     "author": "Chorus - Peter Pan",
     "metadata": {
@@ -1521,7 +1799,9 @@
       "spotify_track_id": "1JVq9ynobUyXYxqohVEGrH",
       "tmdb_id": 10693,
       "tmdb_poster": "/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Philadelphia",
@@ -1533,7 +1813,9 @@
       "spotify_track_id": "5Nj8kBJdpJJ4I9wxQyp8JH",
       "tmdb_id": 9800,
       "tmdb_poster": "/jATwMlaz93jKzT8K5SlW3sRUpDb.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Pink Floyd: El Muro",
@@ -1545,7 +1827,9 @@
       "spotify_track_id": "7K6xMPtAjTuLPNlJMLf5bS",
       "tmdb_id": 12104,
       "tmdb_poster": "/aqiDo8D4NHLrrUxckA7zWcrN6aY.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Pinocho",
@@ -1557,7 +1841,9 @@
       "spotify_track_id": "2tkzxWAX2ya9IriKhEwNOA",
       "tmdb_id": 10895,
       "tmdb_poster": "/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Piratas Del Caribe: La Maldición De La Perla Negra",
@@ -1569,7 +1855,11 @@
       "spotify_track_id": "4AD2dterIUjNt1LFNI9Bvi",
       "tmdb_id": 22,
       "tmdb_poster": "/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": [
+      "aventura"
+    ]
   },
   {
     "film": "Platoon",
@@ -1581,7 +1871,9 @@
       "spotify_track_id": "3n54EnQoFQZVTmAEBshgEZ",
       "tmdb_id": 792,
       "tmdb_poster": "/Aeo2CHf8oWQzxAw4QpB43YfqxEF.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Pocahontas",
@@ -1593,7 +1885,9 @@
       "spotify_track_id": "7AsZ5WyFcF0vGRdkPl0F87",
       "tmdb_id": 10530,
       "tmdb_poster": "/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Pretty Woman",
@@ -1605,7 +1899,9 @@
       "spotify_track_id": "52HAHV1j93s5B8GoTNI7DJ",
       "tmdb_id": 114,
       "tmdb_poster": "/iKaKr8aUqOy1aojENu5XuwBI8Uj.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Pulp Fiction",
@@ -1617,7 +1913,9 @@
       "spotify_track_id": "1MLUxFwS1d4eY0JWIEkn4X",
       "tmdb_id": 680,
       "tmdb_poster": "/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Prince: Purple Rain",
@@ -1629,7 +1927,9 @@
       "spotify_track_id": "54X78diSLoUDI3joC2bjMz",
       "tmdb_id": 13763,
       "tmdb_poster": "/vkQmzaSuDj8QyXmwNhCceCAmwUe.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Ratatouille",
@@ -1641,7 +1941,9 @@
       "spotify_track_id": "02JIdsrod3BYucThfUFDUX",
       "tmdb_id": 2062,
       "tmdb_poster": "/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Regreso Al Futuro",
@@ -1653,7 +1955,9 @@
       "spotify_track_id": "5X7TqFJySUyxjUyKorkdXF",
       "tmdb_id": 105,
       "tmdb_poster": "/owk40tn1sFJmC7bhamEpmhdZPKa.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Reservoir Dogs",
@@ -1665,7 +1969,11 @@
       "spotify_track_id": "1b7LMtXCXGc2EwOIplI35z",
       "tmdb_id": 500,
       "tmdb_poster": "/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "crimen"
+    ]
   },
   {
     "film": "Robin Hood",
@@ -1677,7 +1985,9 @@
       "spotify_track_id": "0mWXrr6HQZUhCQG4JMkT2e",
       "tmdb_id": 11886,
       "tmdb_poster": "/49XBX5xwFrJVP1bQLJf4MFFOavZ.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Robin Hood, Príncipe De Los Ladrones",
@@ -1689,7 +1999,9 @@
       "spotify_track_id": "5HQ6AUDMbMuwktvcNPuV1y",
       "tmdb_id": 8367,
       "tmdb_poster": "/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Rocky",
@@ -1701,7 +2013,9 @@
       "spotify_track_id": "7iXYRR70wewzVYzWScm99j",
       "tmdb_id": 1187746,
       "tmdb_poster": "/hF8FLjZoZNYun6CHGaWqly6JtM7.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Rocky Iii",
@@ -1713,7 +2027,9 @@
       "spotify_track_id": "2HHtWyy5CgaQbC7XSoOb0e",
       "tmdb_id": 1371,
       "tmdb_poster": "/5Mn0xgB8w9mi2Ifo7WdS8aSgA7V.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Rocky Iv",
@@ -1725,7 +2041,9 @@
       "spotify_track_id": "5vI0C3TDTxySR6Oq8NWjE0",
       "tmdb_id": 1374,
       "tmdb_poster": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Réquiem Por Un Sueño",
@@ -1737,7 +2055,9 @@
       "spotify_track_id": "62Da3JOu9H9EIgmqV7DoLG",
       "tmdb_id": 641,
       "tmdb_poster": "/2B5brHMhaHN1d9KmdeZI6RlU3aE.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Saludos Amigos",
@@ -1749,7 +2069,9 @@
       "spotify_track_id": "58NywJgcHVLXrndCpLATvg",
       "tmdb_id": 14906,
       "tmdb_poster": "/AqNjU3PS1WCKZIIVK9o8l0s7ltH.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Shrek",
@@ -1761,7 +2083,9 @@
       "spotify_track_id": "2t0NfhRIiib6zlCw2XlHoq",
       "tmdb_id": 808,
       "tmdb_poster": "/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Skyfall",
@@ -1773,7 +2097,9 @@
       "spotify_track_id": "6VObnIkLVruX4UVyxWhlqm",
       "tmdb_id": 37724,
       "tmdb_poster": "/lz5kTkm3az7Ww0uTLRvCGgudnaa.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Sonrisas Y Lágrimas",
@@ -1785,7 +2111,9 @@
       "spotify_track_id": "5bC3Elhc2z2mIjB8WPeSZv",
       "tmdb_id": 15121,
       "tmdb_poster": "/3mYxH1mwSmNoyZF4xvDvcEpH18F.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Space Jam",
@@ -1797,7 +2125,9 @@
       "spotify_track_id": "3PCXLtid4Y3BGdCBW0pDEG",
       "tmdb_id": 2300,
       "tmdb_poster": "/i5QYBFIIrh6PngEsCj5fGX7gcI7.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Spider-man",
@@ -1809,7 +2139,9 @@
       "spotify_track_id": "0U6lmEhmRVptZAX7HrauqG",
       "tmdb_id": 557,
       "tmdb_poster": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "La Guerra De Las Galaxias",
@@ -1821,7 +2153,9 @@
       "spotify_track_id": "3LpheVDaZXkUePlKbZi9Md",
       "tmdb_id": 11,
       "tmdb_poster": "/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Superman",
@@ -1833,7 +2167,9 @@
       "spotify_track_id": "4tABZngfyleLXr5wxHgRxZ",
       "tmdb_id": 1924,
       "tmdb_poster": "/sYJGXqaDQzJ2qu2bhMDyTFtww7q.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Tarzán",
@@ -1845,7 +2181,9 @@
       "spotify_track_id": "7tgR5zkdJzZc5OgMBwhwwx",
       "tmdb_id": 37135,
       "tmdb_poster": "/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Terminator",
@@ -1857,7 +2195,11 @@
       "spotify_track_id": "6jNFXIiJDOvSzFqQOk0Gt9",
       "tmdb_id": 218,
       "tmdb_poster": "/9KI49SBnwAOzGcMw1onIki7vd2.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": [
+      "ciencia_ficcion"
+    ]
   },
   {
     "film": "The Rocky Horror Picture Show",
@@ -1869,7 +2211,9 @@
       "spotify_track_id": "4WFeJTXNHIS2wURtwlAkhu",
       "tmdb_id": 36685,
       "tmdb_poster": "/6xJuXrwpXHCJW51d3EJHGj3ZbM2.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Tiburón",
@@ -1881,7 +2225,9 @@
       "spotify_track_id": "55xly70WJY1cx5qsoogaqs",
       "tmdb_id": 578,
       "tmdb_poster": "/aCqHb3eFQV8raX30OfGurqPlpjh.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Titanic",
@@ -1893,7 +2239,9 @@
       "spotify_track_id": "7F1yVPuJ4xRdrDvf8OL0HF",
       "tmdb_id": 597,
       "tmdb_poster": "/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Top Gun: Ídolos Del Aire",
@@ -1905,7 +2253,9 @@
       "spotify_track_id": "3hMHG6lx9QHVcfYSUr5PoM",
       "tmdb_id": 744,
       "tmdb_poster": "/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg"
-    }
+    },
+    "difficulty": 1,
+    "genres": []
   },
   {
     "film": "Toy Story",
@@ -1917,7 +2267,9 @@
       "spotify_track_id": "5xo6EfJOJhQGHIHv2RBIpB",
       "tmdb_id": 862,
       "tmdb_poster": "/jvn7wy3RSNEXnFSXLpH2of2LcV6.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Trainspotting",
@@ -1929,7 +2281,9 @@
       "spotify_track_id": "21YxK0klhpfLW8budkJaMF",
       "tmdb_id": 627,
       "tmdb_poster": "/qN6MomkBcDx0QilCagcwhPBgXU3.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Up",
@@ -1941,7 +2295,9 @@
       "spotify_track_id": "7iocNjLrxPHLl8njgRlv5U",
       "tmdb_id": 14160,
       "tmdb_poster": "/1N0LtzUueXrlnpL466jQBJ6iAuj.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Vaiana",
@@ -1953,7 +2309,9 @@
       "spotify_track_id": "6orRFPOpyksp2Hgh7KDehQ",
       "tmdb_id": 277834,
       "tmdb_poster": "/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "West Side Story (amor Sin Barreras)",
@@ -1965,7 +2323,9 @@
       "spotify_track_id": "1RZ6jzlPeEaDeKYe7IJ792",
       "tmdb_id": 1725,
       "tmdb_poster": "/AejrmDDmafBvaOLXWNct9fbJnZt.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Wonder Woman",
@@ -1977,7 +2337,9 @@
       "spotify_track_id": "47q8TxNygd1EV89Kq7uwe2",
       "tmdb_id": 297762,
       "tmdb_poster": "/skVHFykCQrEwQJdrpUHgJbvqo1u.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   },
   {
     "film": "Érase Una Vez En… Hollywood",
@@ -1989,6 +2351,8 @@
       "spotify_track_id": "1g9Qn3WkiUOHluP646iLzU",
       "tmdb_id": 466272,
       "tmdb_poster": "/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg"
-    }
+    },
+    "difficulty": 2,
+    "genres": []
   }
 ]
