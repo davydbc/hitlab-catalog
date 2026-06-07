@@ -1,2358 +1,2978 @@
-[
-  {
-    "film": "101 Dálmatas",
-    "year": 1961,
-    "song": "Cruella De Vil",
-    "author": "Bill Lee",
-    "metadata": {
-      "original_title": "One Hundred and One Dalmatians",
-      "spotify_track_id": "4VF8YWqMsY3Y1UcKJBg5XO",
-      "tmdb_id": 12230,
-      "tmdb_poster": "/2Bt5iwJ0bMPWgIMBVTJPtI7onbe.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "12 Hombres Sin Piedad",
-    "year": 1958,
-    "song": "Main Theme - From The Longest Day 1962",
-    "author": "Henry Fonda, Maurice Jarre Orchestra",
-    "metadata": {
-      "original_title": "12 Angry Men",
-      "spotify_track_id": "0cnyFyT5ctCZcUoidizePe",
-      "tmdb_id": 389,
-      "tmdb_poster": "/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "2001: Una Odisea Del Espacio",
-    "year": 1968,
-    "song": "Also Sprach Zarathustra, Op. 30: I. Prelude. Sonnenaufgang",
-    "author": "Richard Strauss, Berliner Philharmoniker, Herbert Von Karajan",
-    "metadata": {
-      "original_title": "2001: A Space Odyssey",
-      "spotify_track_id": "43YwOmGUOS3zzGvj1Feszb",
-      "tmdb_id": 62,
-      "tmdb_poster": "/sln50uQYigvu5AvN72JfYfu1ckq.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "ciencia_ficcion"
-    ]
-  },
-  {
-    "film": "28 Días Después",
-    "year": 2003,
-    "song": "28 Days Later Main Theme (from \"28 Days Later\")",
-    "author": "Geek Music",
-    "metadata": {
-      "original_title": "28 Days Later",
-      "spotify_track_id": "47AsriNLhUcdnMAB9UPFxx",
-      "tmdb_id": 170,
-      "tmdb_poster": "/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "8 Millas",
-    "year": 2003,
-    "song": "Lose Yourself - From \"8 Mile\" Soundtrack",
-    "author": "Eminem",
-    "metadata": {
-      "original_title": "8 Mile",
-      "spotify_track_id": "1a3xfVZyJnlKn4t65ccBbp",
-      "tmdb_id": 65,
-      "tmdb_poster": "/bRSMRkf06aUeZcmr5Cyxuv5vk4T.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Aladdin (aladino)",
-    "year": 1992,
-    "song": "Un Mundo Ideal",
-    "author": "David García Llop, Nikki García",
-    "metadata": {
-      "original_title": "Aladdin",
-      "spotify_track_id": "1EklDiRTYbeaIwnszQLGzI",
-      "tmdb_id": 343693,
-      "tmdb_poster": "/6NGjDdErVOmnoqLnjh0ouRfxerS.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "animacion"
-    ]
-  },
-  {
-    "film": "Algo Para Recordar",
-    "year": 1993,
-    "song": "When I Fall In Love (feat. Clive Griffin)",
-    "author": "Céline Dion, Clive Griffin",
-    "metadata": {
-      "original_title": "Sleepless in Seattle",
-      "spotify_track_id": "34jAkbORFZkPpn8lwuHPPD",
-      "tmdb_id": 858,
-      "tmdb_poster": "/1buV1tX56kIqRo6FomnmoMIPbj1.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Alicia En El País De Las Maravillas",
-    "year": 1954,
-    "song": "Main Title (alice In Wonderland)",
-    "author": "The Jud Conlon Chorus",
-    "metadata": {
-      "original_title": "Alice in Wonderland",
-      "spotify_track_id": "04kx6QHqnBwpxC7kdRlCsn",
-      "tmdb_id": 12092,
-      "tmdb_poster": "/zOJKtTdToc8FcjmmbavkjUxv2Ue.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Amadeus",
-    "year": 1984,
-    "song": "Symphony No. 25 In G Minor, K. 183: I. Allegro Con Brio",
-    "author": "Wolfgang Amadeus Mozart, Capella Istropolitana, Barry Wordsworth",
-    "metadata": {
-      "original_title": "Amadeus",
-      "spotify_track_id": "30BM5cysrUvZYzu4oMRPhZ",
-      "tmdb_id": 279,
-      "tmdb_poster": "/nI24KqCadkHbjF4LpVHmUhQRNDn.jpg"
-    },
-    "difficulty": 3,
-    "genres": []
-  },
-  {
-    "film": "American Beauty",
-    "year": 2000,
-    "song": "Dead Already",
-    "author": "Thomas Newman",
-    "metadata": {
-      "original_title": "American Beauty",
-      "spotify_track_id": "5uuZI0l5SMRMAIVzPl1xgU",
-      "tmdb_id": 14,
-      "tmdb_poster": "/wdXHzwh4DCifigYD50YEYM6CJS3.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Amelie",
-    "year": 2001,
-    "song": "Comptine D'un Autre Été, L'après-midi",
-    "author": "Yann Tiersen",
-    "metadata": {
-      "original_title": "Le Fabuleux Destin d'Amélie Poulain",
-      "spotify_track_id": "1Re30B3AC2Ra8n4f2xsDW3",
-      "tmdb_id": 194,
-      "tmdb_poster": "/mYvUib00miJWxWkiXhy3QnrCj96.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Apocalypse Now",
-    "year": 1979,
-    "song": "Ride Of The Valkyries (the Watchmen)",
-    "author": "London Symphony Orchestra",
-    "metadata": {
-      "original_title": "Apocalypse Now",
-      "spotify_track_id": "7JczDg05i29N5C3VMZKIVA",
-      "tmdb_id": 28,
-      "tmdb_poster": "/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Armageddon",
-    "year": 1998,
-    "song": "I Don't Want To Miss A Thing - From \"armageddon\" Soundtrack",
-    "author": "Aerosmith",
-    "metadata": {
-      "original_title": "Armageddon",
-      "spotify_track_id": "225xvV8r1yKMHErSWivnow",
-      "tmdb_id": 95,
-      "tmdb_poster": "/yYtlk1E28L1kQG6VcazkHhv29Ur.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Bambi",
-    "year": 1950,
-    "song": "Love Is A Song - Bambi Original Soundtrack",
-    "author": "Donald Novis",
-    "metadata": {
-      "original_title": "Bambi",
-      "spotify_track_id": "6j7vVEX8LcCrSkEnsZbP3T",
-      "tmdb_id": 3170,
-      "tmdb_poster": "/q9LI5Uloz1WRqaJjr8Tq2aOeSeH.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Barry Lyndon",
-    "year": 1976,
-    "song": "Sarabande (from \"barry Lyndon\")",
-    "author": "The City Of Prague Philharmonic Orchestra",
-    "metadata": {
-      "original_title": "Barry Lyndon",
-      "spotify_track_id": "2Xgz3y903BxnPdjgA7FDiP",
-      "tmdb_id": 3175,
-      "tmdb_poster": "/x28u4tvapVCPaVWHyvrEyLZWyk8.jpg"
-    },
-    "difficulty": 3,
-    "genres": []
-  },
-  {
-    "film": "Batman",
-    "year": 1989,
-    "song": "The Batman Theme",
-    "author": "Danny Elfman",
-    "metadata": {
-      "original_title": "Batman",
-      "spotify_track_id": "50csT5Qb2qOF7lHdDQ1Sbx",
-      "tmdb_id": 268,
-      "tmdb_poster": "/fpY5cNPIbKYpdBtukCMtBMMt1s3.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Ben-hur",
-    "year": 1960,
-    "song": "Prelude - Main Title",
-    "author": "Miklós Rózsa",
-    "metadata": {
-      "original_title": "Ben-Hur",
-      "spotify_track_id": "7sBqkVK07Gj1O1MZIfPSV2",
-      "tmdb_id": 665,
-      "tmdb_poster": "/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Blade Runner",
-    "year": 1982,
-    "song": "Blade Runner - End Titles",
-    "author": "Vangelis",
-    "metadata": {
-      "original_title": "Blade Runner",
-      "spotify_track_id": "1u1ATklwZesAvq1whHsI8Z",
-      "tmdb_id": 78,
-      "tmdb_poster": "/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Blancanieves Y Los Siete Enanitos",
-    "year": 1941,
-    "song": "Ay Ho/ Cavar, Cavar",
-    "author": "Jesús Aguirre, Santiago Aguirre, Tony Cruz, Joaquín Díaz, Carlos Garcia, Miguel Ángel Godó, Eduardo Moreno, Julio Núñez, Juan Perucho, Ángel Sáiz",
-    "metadata": {
-      "original_title": "Snow White and the Seven Dwarfs",
-      "spotify_track_id": "6JKHBduEoHjQeTfA2luHL5",
-      "tmdb_id": 408,
-      "tmdb_poster": "/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Braveheart",
-    "year": 1995,
-    "song": "The Battle Of Stirling [braveheart - Original Sound Track]",
-    "author": "James Horner, The Choir Of Westminster Abbey, London Symphony Orchestra",
-    "metadata": {
-      "original_title": "Braveheart",
-      "spotify_track_id": "2lcKQSeE9YSs3K3AOvhv98",
-      "tmdb_id": 197,
-      "tmdb_poster": "/cDMYybBU4COJfTwcPgnihwY5EiP.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Brokeback Mountain: En Terreno Vedado",
-    "year": 2005,
-    "song": "He Was A Friend Of Mine",
-    "author": "Willie Nelson",
-    "metadata": {
-      "original_title": "Brokeback Mountain",
-      "spotify_track_id": "0SmxJoIlgyZbeZgqO1v9hq",
-      "tmdb_id": 142,
-      "tmdb_poster": "/kRgrTPM6uDiLBgASk8j3RBTE49d.jpg"
-    },
-    "difficulty": 3,
-    "genres": []
-  },
-  {
-    "film": "Cabaret",
-    "year": 1972,
-    "song": "Cabaret",
-    "author": "Liza Minnelli",
-    "metadata": {
-      "original_title": "Cabaret",
-      "spotify_track_id": "7AFy1aN1RQVgGOXzCtrK87",
-      "tmdb_id": 10784,
-      "tmdb_poster": "/5l7V58hgBEPZDQGFw162oJV9d3q.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Cadena Perpetua",
-    "year": 1995,
-    "song": "End Title",
-    "author": "Thomas Newman",
-    "metadata": {
-      "original_title": "The Shawshank Redemption",
-      "spotify_track_id": "5qWFRThiYrdNTFAkvGnlwc",
-      "tmdb_id": 278,
-      "tmdb_poster": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Cantando Bajo La Lluvia",
-    "year": 1953,
-    "song": "Main Title (singin' In The Rain)",
-    "author": "Gene Kelly, Debbie Reynolds, Donald O'connor, Mgm Studio Orchestra",
-    "metadata": {
-      "original_title": "Singin' in the Rain",
-      "spotify_track_id": "04FV3YofsJsPVKTZbScTbK",
-      "tmdb_id": 872,
-      "tmdb_poster": "/5r8jD5R6EzpQ5VLodbzTNhvKcGw.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Carros De Fuego",
-    "year": 1982,
-    "song": "Chariots Of Fire",
-    "author": "Vangelis",
-    "metadata": {
-      "original_title": "Chariots of Fire",
-      "spotify_track_id": "6GxhckZeqoWNF9n9XS91HS",
-      "tmdb_id": 9443,
-      "tmdb_poster": "/pXgqJhGWRJJCzVfnsSRCDTvxyjL.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Casino Royale",
-    "year": 2006,
-    "song": "You Know My Name - From Casino Royale",
-    "author": "Chris Cornell",
-    "metadata": {
-      "original_title": "Casino Royale",
-      "spotify_track_id": "0OQAko9qXFwMhLQO4o48nU",
-      "tmdb_id": 36557,
-      "tmdb_poster": "/2Tygvjqrd6EfvOLwuS7bEIbHwH9.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Chinatown",
-    "year": 1974,
-    "song": "Love Theme From Chinatown (main Title) - From The \"chinatown\" Soundtrack",
-    "author": "Jerry Goldsmith",
-    "metadata": {
-      "original_title": "Chinatown",
-      "spotify_track_id": "4Zucyo10zPhTN0oIIn1i6U",
-      "tmdb_id": 829,
-      "tmdb_poster": "/1wO2OmUCWButQyVPGWQEZn5twca.jpg"
-    },
-    "difficulty": 3,
-    "genres": []
-  },
-  {
-    "film": "Cinema Paradiso",
-    "year": 1989,
-    "song": "Cinema Paradiso (main Theme)",
-    "author": "Ennio Morricone",
-    "metadata": {
-      "original_title": "Nuovo Cinema Paradiso",
-      "spotify_track_id": "0FFOaRW0WTJgd12cKEKuaC",
-      "tmdb_id": 11216,
-      "tmdb_poster": "/hHwsr3t5n7VVUbPyU8VZswn0jkL.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Coco",
-    "year": 2017,
-    "song": "Recuérdame",
-    "author": "Carlos Rivera",
-    "metadata": {
-      "original_title": "Coco",
-      "spotify_track_id": "7leda3SKodxvAVgqWfN9aA",
-      "tmdb_id": 354912,
-      "tmdb_poster": "/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Conan, El Bárbaro",
-    "year": 1982,
-    "song": "The Anvil Of Crom (form \"conan The Barbarian\")",
-    "author": "Basil Poledouris",
-    "metadata": {
-      "original_title": "Conan the Barbarian",
-      "spotify_track_id": "5mxTww2EuHbK0txi7U5C0A",
-      "tmdb_id": 9387,
-      "tmdb_poster": "/Avfp508AE3GlTIiEIzu8ZB9goKp.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "aventura"
-    ]
-  },
-  {
-    "film": "Desayuno Con Diamantes",
-    "year": 1963,
-    "song": "Moon River (from Breakfast At Tiffany's) [remastered]",
-    "author": "Audrey Hepburn",
-    "metadata": {
-      "original_title": "Breakfast at Tiffany's",
-      "spotify_track_id": "1XwAKjAZ1xDZOcuyZoqce4",
-      "tmdb_id": 164,
-      "tmdb_poster": "/aHFIHN7yenVYk1wkDWJ7hs1czh4.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Deseando Amar",
-    "year": 2001,
-    "song": "Yumeji's Theme - Theme From 'in The Mood For Love'",
-    "author": "Shigeru Umebayashi",
-    "metadata": {
-      "original_title": "花樣年華",
-      "spotify_track_id": "0yVq58uQ2Bp2OVADYlLHNk",
-      "tmdb_id": 843,
-      "tmdb_poster": "/ivyPPBVdDcwJy8LI8xccDFZqIaU.jpg"
-    },
-    "difficulty": 3,
-    "genres": []
-  },
-  {
-    "film": "Dirty Dancing",
-    "year": 1988,
-    "song": "(i've Had) The Time Of My Life - From \"dirty Dancing\" Soundtrack",
-    "author": "Bill Medley, Jennifer Warnes",
-    "metadata": {
-      "original_title": "Dirty Dancing",
-      "spotify_track_id": "6W7ztLBiRzBN46ZaPAcQ0F",
-      "tmdb_id": 88,
-      "tmdb_poster": "/Bqk2YfJRetrcKXnkavJZcqKpUC.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Django Desencadenado",
-    "year": 2013,
-    "song": "Django",
-    "author": "Luis Bacalov, Rocky Roberts",
-    "metadata": {
-      "original_title": "Django Unchained",
-      "spotify_track_id": "6I2BDcHnG8De0Kn7mVSNZE",
-      "tmdb_id": 68718,
-      "tmdb_poster": "/fIxAE6BKfAzhPRYm7DdldBaYu5T.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Doctor Zhivago",
-    "year": 1966,
-    "song": "Lara's Theme - Swing Version",
-    "author": "Maurice Jarre",
-    "metadata": {
-      "original_title": "Doctor Zhivago",
-      "spotify_track_id": "6pXuC0wUEa4uZ9joYQKv21",
-      "tmdb_id": 907,
-      "tmdb_poster": "/ewV2RlSlMs5jRKVlFNHZ9u8t6Ms.jpg"
-    },
-    "difficulty": 3,
-    "genres": []
-  },
-  {
-    "film": "Donnie Darko",
-    "year": 2002,
-    "song": "Mad World",
-    "author": "Gary Jules, Michael Andrews",
-    "metadata": {
-      "original_title": "Donnie Darko",
-      "spotify_track_id": "3JOVTQ5h8HGFnDdp4VT3MP",
-      "tmdb_id": 141,
-      "tmdb_poster": "/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Drive",
-    "year": 2011,
-    "song": "Nightcall",
-    "author": "Kavinsky",
-    "metadata": {
-      "original_title": "Drive",
-      "spotify_track_id": "0U0ldCRmgCqhVvD6ksG63j",
-      "tmdb_id": 64690,
-      "tmdb_poster": "/r63LaAngw0LAkgYmvA5gllmOUjm.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Drácula De Bram Stoker",
-    "year": 1993,
-    "song": "Love Remembered (from \"bram Stoker's Dracula\" Soundtrack)",
-    "author": "Wojciech Kilar",
-    "metadata": {
-      "original_title": "Bram Stoker's Dracula",
-      "spotify_track_id": "4PmjolpLqJ9G14l2ORO06x",
-      "tmdb_id": 6114,
-      "tmdb_poster": "/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Dumbo",
-    "year": 1947,
-    "song": "Main Title - Dumbo",
-    "author": "Frank Churchill, Oliver Wallace",
-    "metadata": {
-      "original_title": "Dumbo",
-      "spotify_track_id": "0QLgTsCvNIzd9283adAF6Q",
-      "tmdb_id": 11360,
-      "tmdb_poster": "/xXBX2G5dc2WUZslcWuAXYKvYKoI.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "E.t. El Extraterrestre",
-    "year": 1982,
-    "song": "End Credits - Soundtrack Reissue (2002)",
-    "author": "John Williams",
-    "metadata": {
-      "original_title": "E.T. the Extra-Terrestrial",
-      "spotify_track_id": "5NHDsqd1YrYqTJxaLddelw",
-      "tmdb_id": 601,
-      "tmdb_poster": "/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Easy Rider (buscando Mi Destino)",
-    "year": 1974,
-    "song": "Born To Be Wild",
-    "author": "Steppenwolf",
-    "metadata": {
-      "original_title": "Easy Rider",
-      "spotify_track_id": "63OFKbMaZSDZ4wtesuuq6f",
-      "tmdb_id": 624,
-      "tmdb_poster": "/aj7TJr1A2QzlAjx5fBxM4NLSObE.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Bosque",
-    "year": 2004,
-    "song": "The Gravel Road - Score",
-    "author": "James Newton Howard",
-    "metadata": {
-      "original_title": "The Village",
-      "spotify_track_id": "5ynPIIbdGo2OBoX9vcnUo5",
-      "tmdb_id": 6947,
-      "tmdb_poster": "/2urZW6YNuWHLwY63Q5d6RfCzOdx.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Bueno, El Feo Y El Malo",
-    "year": 1968,
-    "song": "El Bueno, El Feo Y El Malo - Ii Buono, Ii Brutto, Il Cattivo - Tema Principal",
-    "author": "Ennio Morricone",
-    "metadata": {
-      "original_title": "Il buono, il brutto, il cattivo",
-      "spotify_track_id": "5pB2NnApayVJ6mvpa8XfjU",
-      "tmdb_id": 429,
-      "tmdb_poster": "/71HKV5F9bfm05ZZnjGmRuFpUVCo.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Caballero Oscuro",
-    "year": 2008,
-    "song": "Why So Serious?",
-    "author": "Hans Zimmer, James Newton Howard",
-    "metadata": {
-      "original_title": "The Dark Knight",
-      "spotify_track_id": "1wdoaja3ueHHvzobn2jE2n",
-      "tmdb_id": 155,
-      "tmdb_poster": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Club De Los Cinco",
-    "year": 1989,
-    "song": "Don't You (forget About Me)",
-    "author": "Simple Minds",
-    "metadata": {
-      "original_title": "The Breakfast Club",
-      "spotify_track_id": "5Y8Rj0s6wuM5DlQdllYiWl",
-      "tmdb_id": 2108,
-      "tmdb_poster": "/f0DhsS50Ksn6rBZhwsH9Rgh9xGi.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Exorcista",
-    "year": 1975,
-    "song": "The Exorcist Theme (tubular Bells) [short]",
-    "author": "Retrospectre",
-    "metadata": {
-      "original_title": "The Exorcist",
-      "spotify_track_id": "2kdvvPKkK7HHKmaUrjRYFV",
-      "tmdb_id": 9552,
-      "tmdb_poster": "/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Graduado",
-    "year": 1969,
-    "song": "The Sound Of Silence",
-    "author": "Simon & Garfunkel",
-    "metadata": {
-      "original_title": "The Graduate",
-      "spotify_track_id": "3YfS47QufnLDFA71FUsgCM",
-      "tmdb_id": 37247,
-      "tmdb_poster": "/z8QQ9T38rNEoCHlqHMgcJfwbZRd.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Gran Showman",
-    "year": 2017,
-    "song": "This Is Me",
-    "author": "Keala Settle, The Greatest Showman Ensemble",
-    "metadata": {
-      "original_title": "The Greatest Showman",
-      "spotify_track_id": "45aBsnKRWUzhwbcqOJLwfe",
-      "tmdb_id": 316029,
-      "tmdb_poster": "/5HjkqEeLPubkMPM9TgV6kB3Iyn0.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Guardaespaldas",
-    "year": 1992,
-    "song": "I Will Always Love You",
-    "author": "Whitney Houston",
-    "metadata": {
-      "original_title": "The Bodyguard",
-      "spotify_track_id": "4eHbdreAnSOrDDsFfc4Fpm",
-      "tmdb_id": 619,
-      "tmdb_poster": "/pnGQbumT2SejsZprnszaI2bLA4R.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Jorobado De Notre Dame",
-    "year": 1996,
-    "song": "The Bells Of Notre Dame",
-    "author": "David Ogden Stiers, Tony Jay, Paul Kandel, Chorus - The Hunchback Of Notre Dame",
-    "metadata": {
-      "original_title": "The Hunchback of Notre Dame",
-      "spotify_track_id": "7jZcWttgE7HF35YeB9dzq8",
-      "tmdb_id": 10545,
-      "tmdb_poster": "/pvnmJckCNgzEbuE5sHXX3tDRQox.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Libro De La Selva",
-    "year": 1968,
-    "song": "Busca Lo Más Vital",
-    "author": "Ad Santos, Germán Valdés",
-    "metadata": {
-      "original_title": "The Jungle Book",
-      "spotify_track_id": "2Yy18WPd9Ho4RTJHE64boS",
-      "tmdb_id": 9325,
-      "tmdb_poster": "/1w8wk8htVPW5cdCYnRU4bt5y5Fw.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Padrino",
-    "year": 1972,
-    "song": "The Godfather Waltz (main Title)",
-    "author": "Nino Rota, Carlo Savina",
-    "metadata": {
-      "original_title": "The Godfather",
-      "spotify_track_id": "3WoSJF85H0qywD4qLp4HDd",
-      "tmdb_id": 238,
-      "tmdb_poster": "/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg"
-    },
-    "difficulty": 1,
-    "genres": [
-      "crimen"
-    ]
-  },
-  {
-    "film": "El Pianista",
-    "year": 2002,
-    "song": "Nocturne In C-sharp Minor",
-    "author": "Frédéric Chopin, Vladimir Feltsman",
-    "metadata": {
-      "original_title": "The Pianist",
-      "spotify_track_id": "0KhT24AgBxl4GjUB4Yz5fZ",
-      "tmdb_id": 423,
-      "tmdb_poster": "/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Piano",
-    "year": 1993,
-    "song": "The Heart Asks Pleasure First",
-    "author": "Michael Nyman",
-    "metadata": {
-      "original_title": "The Piano",
-      "spotify_track_id": "4RW7EZi7SHSLRwvn1Q8Mqj",
-      "tmdb_id": 713,
-      "tmdb_poster": "/6Dr3APk7mPUpiqbLrHXQG9nJ0R9.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Planeta De Los Simios",
-    "year": 1968,
-    "song": "Main Title",
-    "author": "Jerry Goldsmith",
-    "metadata": {
-      "original_title": "Planet of the Apes",
-      "spotify_track_id": "57ZFW90qBiXxuhsPQqzDhR",
-      "tmdb_id": 871,
-      "tmdb_poster": "/pMLpuzyeXFsttiW0dHzJLH5FXyK.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Precio Del Poder",
-    "year": 1984,
-    "song": "Main Title (from The Motion Picture \"scarface\")",
-    "author": "Giorgio Moroder",
-    "metadata": {
-      "original_title": "Scarface",
-      "spotify_track_id": "51wm7yXftCtK0ySLfN3kHD",
-      "tmdb_id": 111,
-      "tmdb_poster": "/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Puente Sobre El Río Kwai",
-    "year": 1957,
-    "song": "Colonel Bogey March",
-    "author": "Kenneth J. Alford, John Williams, Boston Pops Orchestra",
-    "metadata": {
-      "original_title": "The Bridge on the River Kwai",
-      "spotify_track_id": "26mF0jZZvtkZrW3Uff0n6F",
-      "tmdb_id": 826,
-      "tmdb_poster": "/z5uKyonXIGiVub5RtJKaPgGevlI.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "El Rey León",
-    "year": 1994,
-    "song": "El Ciclo De La Vida",
-    "author": "Tata Vega",
-    "metadata": {
-      "original_title": "The Lion King",
-      "spotify_track_id": "1VHZrdrUFov4MX4X3gHULf",
-      "tmdb_id": 8587,
-      "tmdb_poster": "/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg"
-    },
-    "difficulty": 1,
-    "genres": [
-      "animacion"
-    ]
-  },
-  {
-    "film": "El Último Mohicano",
-    "year": 1992,
-    "song": "Main Title",
-    "author": "Trevor Jones",
-    "metadata": {
-      "original_title": "The Last of the Mohicans",
-      "spotify_track_id": "010zZfqsh3WFVlsIpwA2HI",
-      "tmdb_id": 9361,
-      "tmdb_poster": "/mM9ewvwSZM5DdHFeSaFtRJYDCij.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "En Busca Del Arca Perdida",
-    "year": 1981,
-    "song": "En Busca Del Arca Perdida - En Busca Del Arca Perdida",
-    "author": "Soundtrack Band",
-    "metadata": {
-      "original_title": "Raiders of the Lost Ark",
-      "spotify_track_id": "0fbqMPKPdpvbWOnJrsQLCO",
-      "tmdb_id": 85,
-      "tmdb_poster": "/tECLVwLCMexSkls33RTCwedRZ6d.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Encanto",
-    "year": 2021,
-    "song": "No Se Habla De Bruno",
-    "author": "Carolina Gaitán - La Gaita, Mauro Castillo, Daniela Sierra, Juanse Diez, Isabel Garcés, Olga Lucía Vives, Encanto - Elenco",
-    "metadata": {
-      "original_title": "Encanto",
-      "spotify_track_id": "5QKk5N5xJQGsWMhPM80Kfv",
-      "tmdb_id": 568124,
-      "tmdb_poster": "/d0ezQ1Jz0lpNsX1skEmIvqRL7mN.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "animacion"
-    ]
-  },
-  {
-    "film": "Encuentros En La Tercera Fase",
-    "year": 1978,
-    "song": "Wild Signals",
-    "author": "John Williams",
-    "metadata": {
-      "original_title": "Close Encounters of the Third Kind",
-      "spotify_track_id": "6tvzakkt80JJBQDwv7gOJ2",
-      "tmdb_id": 840,
-      "tmdb_poster": "/btE3LrMhuFa8sfPGxHRC4hGyEjr.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Enredados",
-    "year": 2011,
-    "song": "Cuando Mi Vida Va A Comenzar",
-    "author": "Carmen López",
-    "metadata": {
-      "original_title": "Tangled",
-      "spotify_track_id": "3pi3G64D1hqJrsXd7t4eUb",
-      "tmdb_id": 38757,
-      "tmdb_poster": "/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Fantasía",
-    "year": 1946,
-    "song": "Symphony No. 5",
-    "author": "Ludwig Van Beethoven, Chicago Symphony Orchestra",
-    "metadata": {
-      "original_title": "Fantasia",
-      "spotify_track_id": "6X3CvSxTWtCKHgyWV6DfDT",
-      "tmdb_id": 756,
-      "tmdb_poster": "/qCaPIUrbKsUKKFPykmKxc6bPbo0.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Fiebre Del Sábado Noche",
-    "year": 1978,
-    "song": "Stayin' Alive - From \"saturday Night Fever\" Soundtrack",
-    "author": "Bee Gees",
-    "metadata": {
-      "original_title": "Saturday Night Fever",
-      "spotify_track_id": "13SpmZVSu9m6SmsQuCYpF3",
-      "tmdb_id": 11009,
-      "tmdb_poster": "/qgwWjfpgGvUPoWXdq5kPLii6AOr.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Flash Gordon",
-    "year": 1980,
-    "song": "Flash - Single Version",
-    "author": "Queen",
-    "metadata": {
-      "original_title": "Flash Gordon",
-      "spotify_track_id": "5aswWmjJLHBSYFknQjegfg",
-      "tmdb_id": 3604,
-      "tmdb_poster": "/uyHg2QH4B34fp941h0pGs4E9kxJ.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Flashdance",
-    "year": 1983,
-    "song": "Flashdance... What A Feeling - Extended Remix",
-    "author": "Irene Cara",
-    "metadata": {
-      "original_title": "Flashdance",
-      "spotify_track_id": "5Tpowbea8HKSOCDC6Z0QC2",
-      "tmdb_id": 535,
-      "tmdb_poster": "/pCZAf3d14wzhLPZRAOWjRpqgvWG.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Footloose",
-    "year": 1984,
-    "song": "Footloose - From \"footloose\" Soundtrack",
-    "author": "Kenny Loggins",
-    "metadata": {
-      "original_title": "Footloose",
-      "spotify_track_id": "2vz1CsL5WBsbpBcwgboTAw",
-      "tmdb_id": 1788,
-      "tmdb_poster": "/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Forrest Gump",
-    "year": 1994,
-    "song": "Forrest Gump Suite",
-    "author": "Alan Silvestri",
-    "metadata": {
-      "original_title": "Forrest Gump",
-      "spotify_track_id": "655OjsI6LbHdo3565qEfbE",
-      "tmdb_id": 13,
-      "tmdb_poster": "/azV6hV99lYkdhydsQbJCI6FqMl4.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Frozen: El Reino Del Hielo",
-    "year": 2013,
-    "song": "¡sueltalo!",
-    "author": "Gisela",
-    "metadata": {
-      "original_title": "Frozen",
-      "spotify_track_id": "59g9tRMoYFB0eVeqamx3Pp",
-      "tmdb_id": 109445,
-      "tmdb_poster": "/sGNuWC4BwqOB4l0tkbKwLy70tXC.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "animacion"
-    ]
-  },
-  {
-    "film": "Full Monty",
-    "year": 1997,
-    "song": "You Can Leave Your Hat On",
-    "author": "Joe Cocker",
-    "metadata": {
-      "original_title": "The Full Monty",
-      "spotify_track_id": "1x9iOd3K1JC6tdjGZJpFgZ",
-      "tmdb_id": 9427,
-      "tmdb_poster": "/hZorGSNfwMUP8dU6C8HtIS0D9OO.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Ghost (más Allá Del Amor)",
-    "year": 1990,
-    "song": "Unchained Melody",
-    "author": "The Righteous Brothers",
-    "metadata": {
-      "original_title": "Ghost",
-      "spotify_track_id": "2qhASBzpbFhPRtrnZ5lLnz",
-      "tmdb_id": 251,
-      "tmdb_poster": "/gwli1EMll3AJfL5waL9SWEtg3ZI.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Gladiator",
-    "year": 2000,
-    "song": "Now We Are Free - Maximus Mix",
-    "author": "Hans Zimmer, Klaus Badelt, Lisa Gerrard, Gavin Greenaway",
-    "metadata": {
-      "original_title": "Gladiator",
-      "spotify_track_id": "2rBUT42i2t1wsfCmkn1TYA",
-      "tmdb_id": 98,
-      "tmdb_poster": "/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg"
-    },
-    "difficulty": 1,
-    "genres": [
-      "aventura"
-    ]
-  },
-  {
-    "film": "Goldeneye",
-    "year": 1995,
-    "song": "Goldeneye",
-    "author": "Tina Turner",
-    "metadata": {
-      "original_title": "GoldenEye",
-      "spotify_track_id": "528QhCT2v3HgD71RmrSUNW",
-      "tmdb_id": 710,
-      "tmdb_poster": "/plvWFyL4tQXgWOae0P8A4hECWLD.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Good Bye, Lenin!",
-    "year": 2003,
-    "song": "Summer 78 (1)",
-    "author": "Yann Tiersen, Claire Pichet",
-    "metadata": {
-      "original_title": "Good Bye, Lenin!",
-      "spotify_track_id": "6VfbrkjPu99TsjTG9PvMkU",
-      "tmdb_id": 338,
-      "tmdb_poster": "/32mQrRhkZofgMmGEHVNsTUHARWr.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Granujas A Todo Ritmo",
-    "year": 1990,
-    "song": "Everybody Needs Somebody To Love",
-    "author": "The Blues Brothers",
-    "metadata": {
-      "spotify_track_id": "1CtKHwDqsH3ctcCCI18N0g",
-      "tags": [
-        "<TMDB_NO_MATCH>"
+{
+  "genre_catalog": {
+    "12": "Aventura",
+    "14": "Fantasía",
+    "16": "Animación",
+    "18": "Drama",
+    "27": "Terror",
+    "28": "Acción",
+    "35": "Comedia",
+    "36": "Historia",
+    "37": "Western",
+    "53": "Suspense",
+    "80": "Crimen",
+    "99": "Documental",
+    "878": "Ciencia ficción",
+    "9648": "Misterio",
+    "10402": "Música",
+    "10749": "Romance",
+    "10751": "Familia",
+    "10752": "Bélica",
+    "10770": "Película de TV"
+  },
+  "entries": [
+    {
+      "film": "101 Dálmatas",
+      "year": 1961,
+      "song": "Cruella De Vil",
+      "author": "Bill Lee",
+      "metadata": {
+        "original_title": "One Hundred and One Dalmatians",
+        "spotify_track_id": "4VF8YWqMsY3Y1UcKJBg5XO",
+        "tmdb_id": 12230,
+        "tmdb_poster": "/2Bt5iwJ0bMPWgIMBVTJPtI7onbe.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        16,
+        35,
+        10751
       ]
     },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Grease",
-    "year": 1978,
-    "song": "Grease - From “grease”",
-    "author": "Frankie Valli",
-    "metadata": {
-      "original_title": "Grease",
-      "spotify_track_id": "6X1D6qbVmK48uoOD9nIvVV",
-      "tmdb_id": 621,
-      "tmdb_poster": "/flSy0dexE82TiS6Si2FtulSHk8o.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Ha Nacido Una Estrella",
-    "year": 2018,
-    "song": "Shallow",
-    "author": "Lady Gaga, Bradley Cooper",
-    "metadata": {
-      "original_title": "A Star Is Born",
-      "spotify_track_id": "5lK18Pt33xNudq4qYDxIm8",
-      "tmdb_id": 332562,
-      "tmdb_poster": "/jAdNHXbswMuIhcRInIzphZvJElA.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Hacia Rutas Salvajes",
-    "year": 2008,
-    "song": "Guaranteed",
-    "author": "Eddie Vedder",
-    "metadata": {
-      "original_title": "Into the Wild",
-      "spotify_track_id": "4LGF2tDg3878bs0mQPByZ4",
-      "tmdb_id": 5915,
-      "tmdb_poster": "/nsukpCUlvOfcZEcMIBN1m4coUkd.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Harry Potter Y La Piedra Filosofal",
-    "year": 2001,
-    "song": "Hedwig's Theme",
-    "author": "John Williams",
-    "metadata": {
-      "original_title": "Harry Potter and the Philosopher's Stone",
-      "spotify_track_id": "1n8NKQRg8LVHy7oUhUgbFF",
-      "tmdb_id": 671,
-      "tmdb_poster": "/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Hasta Que Llegó Su Hora",
-    "year": 1969,
-    "song": "Once Upon A Time In The West (main Theme)",
-    "author": "Ennio Morricone",
-    "metadata": {
-      "original_title": "C'era una volta il West",
-      "spotify_track_id": "7sEpQIyx0ot2t6PhT7ycTZ",
-      "tmdb_id": 335,
-      "tmdb_poster": "/upiek8u4rHTrOJW9B0woXe4A4h7.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Hércules",
-    "year": 1997,
-    "song": "De Cero A Héroe",
-    "author": "Susan Martín, Helen Quiroga, Paula Bas, Cani González, María Caneda",
-    "metadata": {
-      "original_title": "Hercules",
-      "spotify_track_id": "1kIKCaRH85flXDJUKoxlUJ",
-      "tmdb_id": 11970,
-      "tmdb_poster": "/iwjP7ImLzXZjKHnCUChJThEtNJG.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Instinto Básico",
-    "year": 1992,
-    "song": "Main Theme (theme From Basic Instinct) - Original 1992 Soundtrack Album",
-    "author": "Jerry Goldsmith",
-    "metadata": {
-      "original_title": "Basic Instinct",
-      "spotify_track_id": "0W3Fv89IF7mdPBY8glohzu",
-      "tmdb_id": 402,
-      "tmdb_poster": "/7iUhPh6B5C4T1osYDzoUchjb3i4.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Interstellar",
-    "year": 2014,
-    "song": "No Time For Caution",
-    "author": "Hans Zimmer",
-    "metadata": {
-      "original_title": "Interstellar",
-      "spotify_track_id": "5aaXqH8rgKZxg61HjECldi",
-      "tmdb_id": 157336,
-      "tmdb_poster": "/9cTfZWP5TfdnmAjiD6ZBXWIJ7O9.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "ciencia_ficcion"
-    ]
-  },
-  {
-    "film": "Jumanji",
-    "year": 1996,
-    "song": "Prologue And Main Title",
-    "author": "James Horner",
-    "metadata": {
-      "original_title": "Jumanji",
-      "spotify_track_id": "7g2TbwNJEYIT7rVNezxS3l",
-      "tmdb_id": 8844,
-      "tmdb_poster": "/m67M2wXLKblJLuJlvF7qaGrGfCa.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Karate Kid, El Momento De La Verdad",
-    "year": 1984,
-    "song": "You're The Best",
-    "author": "Joe \"bean\" Esposito",
-    "metadata": {
-      "original_title": "The Karate Kid",
-      "spotify_track_id": "4zXa17K83Pp6N2yXdVc2sv",
-      "tmdb_id": 1885,
-      "tmdb_poster": "/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Kill Bill: Volumen 1",
-    "year": 2004,
-    "song": "Battle Without Honor Or Humanity",
-    "author": "Hotei",
-    "metadata": {
-      "original_title": "Kill Bill: Vol. 1",
-      "spotify_track_id": "6Q32Vkucx2qeuVyBd3NiFZ",
-      "tmdb_id": 24,
-      "tmdb_poster": "/j5HFN6ZbGqZepIQ7sZRX9dMu8uk.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Bella Durmiente",
-    "year": 1960,
-    "song": "Eres Tú El Príncipe Azul",
-    "author": "Coros - La Bella Durmiente",
-    "metadata": {
-      "original_title": "Sleeping Beauty",
-      "spotify_track_id": "4d2EiN35xmFmta9A6P8Szu",
-      "tmdb_id": 10882,
-      "tmdb_poster": "/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Bella Y La Bestia",
-    "year": 1992,
-    "song": "Bella",
-    "author": "Bely Basarte, Sergi Albert, Elenco - La Bella Y La Bestia",
-    "metadata": {
-      "original_title": "Beauty and the Beast",
-      "spotify_track_id": "3aIWk6cAloGJHiThErsYA4",
-      "tmdb_id": 10020,
-      "tmdb_poster": "/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Cenicienta",
-    "year": 1952,
-    "song": "Cenicienta",
-    "author": "Coro - La Cenicienta",
-    "metadata": {
-      "original_title": "Cinderella",
-      "spotify_track_id": "675IIpWm7w2DSJh4eVB8tI",
-      "tmdb_id": 11224,
-      "tmdb_poster": "/vqzeSm5Agvio7DahhKXaySUbUUW.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Familia Addams",
-    "year": 1992,
-    "song": "The Addams Family",
-    "author": "Vic Mizzy",
-    "metadata": {
-      "original_title": "The Addams Family",
-      "spotify_track_id": "7BOED8Z0Mu9tsivXSPGGk1",
-      "tmdb_id": 2907,
-      "tmdb_poster": "/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Gran Evasión",
-    "year": 1963,
-    "song": "The Great Escape (main Title)",
-    "author": "Elmer Bernstein",
-    "metadata": {
-      "original_title": "The Great Escape",
-      "spotify_track_id": "6R1ZwMtCBuqJyXcqVUSNBF",
-      "tmdb_id": 5925,
-      "tmdb_poster": "/zyXTt4nDNBbS0oULtDuiFpzhA4x.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Historia Interminable",
-    "year": 1984,
-    "song": "Never Ending Story",
-    "author": "Limahl",
-    "metadata": {
-      "original_title": "Die unendliche Geschichte",
-      "spotify_track_id": "2IAQnOWKWjj1iA166KznVd",
-      "tmdb_id": 34584,
-      "tmdb_poster": "/rXAJUv3QfGxIEo8pVAjRPS58paB.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Ciudad De Las Estrellas (la La Land)",
-    "year": 2017,
-    "song": "City Of Stars",
-    "author": "Ryan Gosling",
-    "metadata": {
-      "original_title": "La La Land",
-      "spotify_track_id": "5BMwpS4iYKR30kq9U9beaT",
-      "tmdb_id": 313369,
-      "tmdb_poster": "/7pFsAaJmiOppVHcldBzg8JKBHwe.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Lista De Schindler",
-    "year": 1994,
-    "song": "Theme From Schindler's List",
-    "author": "John Williams, Itzhak Perlman, Boston Symphony Orchestra",
-    "metadata": {
-      "original_title": "Schindler's List",
-      "spotify_track_id": "42gZM6AQ9BDMaTyTmMDVlN",
-      "tmdb_id": 424,
-      "tmdb_poster": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Misión",
-    "year": 1986,
-    "song": "Gabriel's Oboe",
-    "author": "Ennio Morricone",
-    "metadata": {
-      "original_title": "The Mission",
-      "spotify_track_id": "6opPrJUpq4Pl5c84eCwLmo",
-      "tmdb_id": 11416,
-      "tmdb_poster": "/rubwmohm8t5TTtBZyYQ9BHOwDUQ.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Naranja Mecánica",
-    "year": 1975,
-    "song": "A Clockwork Orange (main Title) [from \"a Clockwork Orange\"]",
-    "author": "Gold Rush Studio Orchestra",
-    "metadata": {
-      "original_title": "A Clockwork Orange",
-      "spotify_track_id": "3NQGeHhdlonJjjRm9WolLp",
-      "tmdb_id": 185,
-      "tmdb_poster": "/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Pantera Rosa",
-    "year": 1963,
-    "song": "The Pink Panther Theme",
-    "author": "Henry Mancini",
-    "metadata": {
-      "original_title": "The Pink Panther",
-      "spotify_track_id": "2hZvunBugBIVF8wPDAIA35",
-      "tmdb_id": 936,
-      "tmdb_poster": "/v9yCA2YBRvdfVlwGuvDJGJGBMrX.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "La Sirenita",
-    "year": 1998,
-    "song": "Bajo El Mar - De \"la Sirenita\"/banda Sonora Original",
-    "author": "Vincente Borland, Coro - La Sirenita",
-    "metadata": {
-      "original_title": "The Little Mermaid",
-      "spotify_track_id": "3F32sDOVMpyVWOvIoYv1IM",
-      "tmdb_id": 10144,
-      "tmdb_poster": "/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Vida Es Bella",
-    "year": 1999,
-    "song": "Buongiorno Principessa (from \"la Vita È Bella\")",
-    "author": "Nicola Piovani, Luigi Piovano, Archi Di Santa Cecilia",
-    "metadata": {
-      "original_title": "La vita è bella",
-      "spotify_track_id": "45zxRp4Xz2X1CHq39D2csb",
-      "tmdb_id": 637,
-      "tmdb_poster": "/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Lawrence De Arabia",
-    "year": 1963,
-    "song": "Main Title (from \"lawrence Of Arabia\")",
-    "author": "London Philharmonic Orchestra",
-    "metadata": {
-      "original_title": "Lawrence of Arabia",
-      "spotify_track_id": "2Senxmx6GnCNkRMaXWXm1y",
-      "tmdb_id": 947,
-      "tmdb_poster": "/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg"
-    },
-    "difficulty": 3,
-    "genres": []
-  },
-  {
-    "film": "Leyendas De Pasión",
-    "year": 1995,
-    "song": "The Ludlows (from \"legends Of The Fall\" Soundtrack)",
-    "author": "James Horner",
-    "metadata": {
-      "original_title": "Legends of the Fall",
-      "spotify_track_id": "6vtY2LUeXJ7KISwgiTu0Ph",
-      "tmdb_id": 4476,
-      "tmdb_poster": "/fZjjcVq8YTOUSN6PYTIS009FsmW.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Lo Que El Viento Se Llevó",
-    "year": 1950,
-    "song": "Tara",
-    "author": "Max Steiner",
-    "metadata": {
-      "original_title": "Gone with the Wind",
-      "spotify_track_id": "2twuNa8EX4asJ2Zuvcav6l",
-      "tmdb_id": 770,
-      "tmdb_poster": "/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Los Aristogatos",
-    "year": 1971,
-    "song": "Todos Quieren Ser Un Gato Jazz",
-    "author": "Esteman, Caloncho, Mon Laferte",
-    "metadata": {
-      "original_title": "The Aristocats",
-      "spotify_track_id": "7JFMaCszgik6Ay4WWeG1i3",
-      "tmdb_id": 10112,
-      "tmdb_poster": "/s9DsxlbVE1HvHnCz50GdHDBeZRy.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Los Cazafantasmas",
-    "year": 1984,
-    "song": "Ghostbusters - From The \"ghostbusters\" Original Motion Picture Soundtrack",
-    "author": "Ray Parker Jr.",
-    "metadata": {
-      "original_title": "Ghostbusters",
-      "spotify_track_id": "0phGofl3ppS5Itk1zM9eKa",
-      "tmdb_id": 620,
-      "tmdb_poster": "/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Los Chicos Del Coro",
-    "year": 2004,
-    "song": "Vois Sur Ton Chemin",
-    "author": "Bruno Coulais, La Maîtrise De Saint Marc - Les Choristes",
-    "metadata": {
-      "original_title": "Les Choristes",
-      "spotify_track_id": "351GNhLMwBwzQsENirhFZN",
-      "tmdb_id": 5528,
-      "tmdb_poster": "/f0FrAsLdcnCbvbT9Ofj31UkmcNe.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Los Commitments",
-    "year": 1991,
-    "song": "Mustang Sally",
-    "author": "The Commitments, Andrew Strong",
-    "metadata": {
-      "original_title": "The Commitments",
-      "spotify_track_id": "1XlCCgKKrQQfXaDyv4GrZe",
-      "tmdb_id": 11663,
-      "tmdb_poster": "/iccBDq9aS1gwi6b8aJjBgPU4t2D.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Los Inmortales",
-    "year": 1986,
-    "song": "Princes Of The Universe - Remastered 2011",
-    "author": "Queen",
-    "metadata": {
-      "original_title": "Highlander",
-      "spotify_track_id": "0Uy8lcDHiPDicBQ7rnDgcK",
-      "tmdb_id": 8009,
-      "tmdb_poster": "/5ZxKote3fuIt8woDhVm8Gm51Blf.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Los Intocables De Eliot Ness",
-    "year": 1987,
-    "song": "The Untouchables (end Title)",
-    "author": "Ennio Morricone",
-    "metadata": {
-      "original_title": "The Untouchables",
-      "spotify_track_id": "0nvjvbgCHhRjBv0zIeX1Wi",
-      "tmdb_id": 117,
-      "tmdb_poster": "/pVcWaUbFDL76ObIsReIBQ5ILMHv.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "crimen"
-    ]
-  },
-  {
-    "film": "Los Odiosos Ocho",
-    "year": 2016,
-    "song": "L'ultima Diligenza Di Red Rock - From \"the Hateful Eight\" Soundtrack / Versione Integrale",
-    "author": "Ennio Morricone",
-    "metadata": {
-      "original_title": "The Hateful Eight",
-      "spotify_track_id": "2cI1OrvqZSGVfkf3PPybWF",
-      "tmdb_id": 273248,
-      "tmdb_poster": "/7DYGdFT4gtiD5BI6xyOU6v0XXvi.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Los Siete Magníficos",
-    "year": 1961,
-    "song": "The Magnificent Seven",
-    "author": "Elmer Bernstein",
-    "metadata": {
-      "original_title": "The Magnificent Seven",
-      "spotify_track_id": "0lEtONdoCJJwUfmXUS2Zmk",
-      "tmdb_id": 966,
-      "tmdb_poster": "/eu7dxZWlufFOkDV99IzS7Xd7tp.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Malditos Bastardos",
-    "year": 2009,
-    "song": "The Green Leaves Of Summer - From \"inglourious Basterds\"",
-    "author": "Nick Perito",
-    "metadata": {
-      "original_title": "Inglourious Basterds",
-      "spotify_track_id": "50oQKoR2p1x8Am8d2fetkW",
-      "tmdb_id": 16869,
-      "tmdb_poster": "/dqu7nUtKTLdpM7DaJvD4zcSXhn1.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Mary Poppins",
-    "year": 1965,
-    "song": "Supercalifragilisticoespialidoso",
-    "author": "La Santa Cecilia",
-    "metadata": {
-      "original_title": "Mary Poppins",
-      "spotify_track_id": "4RpJiMN8lg77qHkFpb9A02",
-      "tmdb_id": 433,
-      "tmdb_poster": "/8hU9v0EYEiAWYOkROcy4iWnSNpl.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Matrix",
-    "year": 1999,
-    "song": "Wake Up",
-    "author": "Rage Against The Machine",
-    "metadata": {
-      "original_title": "The Matrix",
-      "spotify_track_id": "6zbHSDJjgrNdfIxPyGfPBt",
-      "tmdb_id": 603,
-      "tmdb_poster": "/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "ciencia_ficcion"
-    ]
-  },
-  {
-    "film": "Matrix Reloaded",
-    "year": 2003,
-    "song": "Mona Lisa Overdrive",
-    "author": "Juno Reactor",
-    "metadata": {
-      "original_title": "The Matrix Reloaded",
-      "spotify_track_id": "6m7mgnkUOpQGzvaqdIeyye",
-      "tmdb_id": 604,
-      "tmdb_poster": "/7IZk3Xp3HIpRJGXFYNvzmyRwDlt.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "ciencia_ficcion"
-    ]
-  },
-  {
-    "film": "Memorias De África",
-    "year": 1989,
-    "song": "Main Title (i Had A Farm In Africa)",
-    "author": "John Barry",
-    "metadata": {
-      "original_title": "Out of Africa",
-      "spotify_track_id": "2CVcuBnF52i0gPba28XWgx",
-      "tmdb_id": 606,
-      "tmdb_poster": "/lovoT4KeD7iyKcDMFo8Y8lFtCle.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Misión Imposible",
-    "year": 1996,
-    "song": "Mission Impossible - Main Theme",
-    "author": "Danny Elfman, Artie Kane",
-    "metadata": {
-      "original_title": "Mission: Impossible",
-      "spotify_track_id": "1lJOpbGH9gjjgcIumHIBrT",
-      "tmdb_id": 954,
-      "tmdb_poster": "/xCpmxw3UUjv4PGzbIPOHeoKAV0l.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Mortal Kombat",
-    "year": 1995,
-    "song": "Techno Syndrome (mortal Kombat)",
-    "author": "The Immortals",
-    "metadata": {
-      "original_title": "Mortal Kombat",
-      "spotify_track_id": "2hTx8adLNJBwhLsavI1Xvr",
-      "tmdb_id": 9312,
-      "tmdb_poster": "/yQA2tNUex9usFP4Tp6NEuZNGtxN.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Moulin Rouge",
-    "year": 2001,
-    "song": "Lady Marmalade - From \"moulin Rouge\" Soundtrack",
-    "author": "Christina Aguilera, Lil' Kim, Mýa, P!nk",
-    "metadata": {
-      "original_title": "Moulin Rouge!",
-      "spotify_track_id": "7GbqE3MlkKosIaCvf50JRK",
-      "tmdb_id": 824,
-      "tmdb_poster": "/hE7ovWkqKzPmgrXZhLRIA20Hx6F.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Mulán",
-    "year": 1998,
-    "song": "Voy A Hacer Todo Un Hombre De Tí",
-    "author": "Pablo Perea, Juan Manuel Escamilla, Miguel Morant, Adel Hakki, José Sánchez Mota, María Caneda, Chorus - Mulan",
-    "metadata": {
-      "original_title": "Mulan",
-      "spotify_track_id": "3wwnCL9mlH3BaVEMm9wTiF",
-      "tmdb_id": 10674,
-      "tmdb_poster": "/towmTJ0k29quKI9IDnOZKAAtQx.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "animacion"
-    ]
-  },
-  {
-    "film": "Oliver Y Su Pandilla",
-    "year": 1989,
-    "song": "Why Should I Worry?",
-    "author": "Billy Joel",
-    "metadata": {
-      "original_title": "Oliver & Company",
-      "spotify_track_id": "0wGh31bYM4IuRdJ7xTvgKN",
-      "tmdb_id": 12233,
-      "tmdb_poster": "/31pu0jSoa6iUouojFnjjlqgOnHB.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Once (una Vez)",
-    "year": 2007,
-    "song": "Falling Slowly",
-    "author": "Glen Hansard, Markéta Irglová",
-    "metadata": {
-      "original_title": "Once",
-      "spotify_track_id": "6EIVLz5xM1xE29r0OmIkWt",
-      "tmdb_id": 5723,
-      "tmdb_poster": "/7nW363kSYRCkr4VGOMvuSGwtzKs.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Origen",
-    "year": 2010,
-    "song": "Time",
-    "author": "Hans Zimmer",
-    "metadata": {
-      "original_title": "Inception",
-      "spotify_track_id": "6ZFbXIJkuI1dVNWvzJzown",
-      "tmdb_id": 27205,
-      "tmdb_poster": "/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Jurassic Park (parque Jurásico)",
-    "year": 1993,
-    "song": "Theme From Jurassic Park",
-    "author": "John Williams",
-    "metadata": {
-      "original_title": "Jurassic Park",
-      "spotify_track_id": "2TZbQZXOuR8osP2AK8yYMN",
-      "tmdb_id": 329,
-      "tmdb_poster": "/h831eszSFmEyr94WKcgscqPIRbh.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Pearl Harbor",
-    "year": 2001,
-    "song": "Tennessee",
-    "author": "Hans Zimmer",
-    "metadata": {
-      "original_title": "Pearl Harbor",
-      "spotify_track_id": "2O0UWIMFeMtFR0LJMuIPjJ",
-      "tmdb_id": 676,
-      "tmdb_poster": "/ftkKVbk4sQEcekuaGJvpvXcNs32.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Pesadilla Antes De Navidad",
-    "year": 1994,
-    "song": "This Is Halloween",
-    "author": "Danny Elfman",
-    "metadata": {
-      "original_title": "The Nightmare Before Christmas",
-      "spotify_track_id": "1CYjYSg9sdtbBoxSf8uhFD",
-      "tmdb_id": 9479,
-      "tmdb_poster": "/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Peter Pan",
-    "year": 1953,
-    "song": "La Estrella Que Nos Vió Nacer (tema Principal)",
-    "author": "Chorus - Peter Pan",
-    "metadata": {
-      "original_title": "Peter Pan",
-      "spotify_track_id": "1JVq9ynobUyXYxqohVEGrH",
-      "tmdb_id": 10693,
-      "tmdb_poster": "/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Philadelphia",
-    "year": 1993,
-    "song": "Streets Of Philadelphia",
-    "author": "Bruce Springsteen",
-    "metadata": {
-      "original_title": "Philadelphia",
-      "spotify_track_id": "5Nj8kBJdpJJ4I9wxQyp8JH",
-      "tmdb_id": 9800,
-      "tmdb_poster": "/jATwMlaz93jKzT8K5SlW3sRUpDb.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Pink Floyd: El Muro",
-    "year": 1983,
-    "song": "Another Brick In The Wall, Pt. 1",
-    "author": "Pink Floyd",
-    "metadata": {
-      "original_title": "Pink Floyd: The Wall",
-      "spotify_track_id": "7K6xMPtAjTuLPNlJMLf5bS",
-      "tmdb_id": 12104,
-      "tmdb_poster": "/aqiDo8D4NHLrrUxckA7zWcrN6aY.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Pinocho",
-    "year": 1944,
-    "song": "La Estrella Azul",
-    "author": "Pablo Palos",
-    "metadata": {
-      "original_title": "Pinocchio",
-      "spotify_track_id": "2tkzxWAX2ya9IriKhEwNOA",
-      "tmdb_id": 10895,
-      "tmdb_poster": "/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Piratas Del Caribe: La Maldición De La Perla Negra",
-    "year": 2003,
-    "song": "He's A Pirate",
-    "author": "Klaus Badelt",
-    "metadata": {
-      "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-      "spotify_track_id": "4AD2dterIUjNt1LFNI9Bvi",
-      "tmdb_id": 22,
-      "tmdb_poster": "/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg"
-    },
-    "difficulty": 1,
-    "genres": [
-      "aventura"
-    ]
-  },
-  {
-    "film": "Platoon",
-    "year": 1987,
-    "song": "Barber: Adagio For Strings, Op. 11 - Extract",
-    "author": "Academy Of St. Martin In The Fields, Sir Neville Marriner",
-    "metadata": {
-      "original_title": "Platoon",
-      "spotify_track_id": "3n54EnQoFQZVTmAEBshgEZ",
-      "tmdb_id": 792,
-      "tmdb_poster": "/Aeo2CHf8oWQzxAw4QpB43YfqxEF.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Pocahontas",
-    "year": 1995,
-    "song": "Colores En El Viento",
-    "author": "Susana Zavaleta",
-    "metadata": {
-      "original_title": "Pocahontas",
-      "spotify_track_id": "7AsZ5WyFcF0vGRdkPl0F87",
-      "tmdb_id": 10530,
-      "tmdb_poster": "/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Pretty Woman",
-    "year": 1990,
-    "song": "Oh, Pretty Woman",
-    "author": "Roy Orbison",
-    "metadata": {
-      "original_title": "Pretty Woman",
-      "spotify_track_id": "52HAHV1j93s5B8GoTNI7DJ",
-      "tmdb_id": 114,
-      "tmdb_poster": "/iKaKr8aUqOy1aojENu5XuwBI8Uj.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Pulp Fiction",
-    "year": 1995,
-    "song": "Miserlou",
-    "author": "Dick Dale",
-    "metadata": {
-      "original_title": "Pulp Fiction",
-      "spotify_track_id": "1MLUxFwS1d4eY0JWIEkn4X",
-      "tmdb_id": 680,
-      "tmdb_poster": "/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Prince: Purple Rain",
-    "year": 1984,
-    "song": "Purple Rain",
-    "author": "Prince",
-    "metadata": {
-      "original_title": "Purple Rain",
-      "spotify_track_id": "54X78diSLoUDI3joC2bjMz",
-      "tmdb_id": 13763,
-      "tmdb_poster": "/vkQmzaSuDj8QyXmwNhCceCAmwUe.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Ratatouille",
-    "year": 2007,
-    "song": "Le Festin",
-    "author": "Camille, Michael Giacchino",
-    "metadata": {
-      "original_title": "Ratatouille",
-      "spotify_track_id": "02JIdsrod3BYucThfUFDUX",
-      "tmdb_id": 2062,
-      "tmdb_poster": "/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Regreso Al Futuro",
-    "year": 1985,
-    "song": "Back To The Future",
-    "author": "The Outatime Orchestra",
-    "metadata": {
-      "original_title": "Back to the Future",
-      "spotify_track_id": "5X7TqFJySUyxjUyKorkdXF",
-      "tmdb_id": 105,
-      "tmdb_poster": "/owk40tn1sFJmC7bhamEpmhdZPKa.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Reservoir Dogs",
-    "year": 1992,
-    "song": "Stuck In The Middle With You",
-    "author": "Stealers Wheel",
-    "metadata": {
-      "original_title": "Reservoir Dogs",
-      "spotify_track_id": "1b7LMtXCXGc2EwOIplI35z",
-      "tmdb_id": 500,
-      "tmdb_poster": "/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "crimen"
-    ]
-  },
-  {
-    "film": "Robin Hood",
-    "year": 1982,
-    "song": "Oo-de-lally - From \"robin Hood\"",
-    "author": "Roger Miller",
-    "metadata": {
-      "original_title": "Robin Hood",
-      "spotify_track_id": "0mWXrr6HQZUhCQG4JMkT2e",
-      "tmdb_id": 11886,
-      "tmdb_poster": "/49XBX5xwFrJVP1bQLJf4MFFOavZ.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Robin Hood, Príncipe De Los Ladrones",
-    "year": 1991,
-    "song": "(everything I Do) I Do It For You",
-    "author": "Bryan Adams",
-    "metadata": {
-      "original_title": "Robin Hood: Prince of Thieves",
-      "spotify_track_id": "5HQ6AUDMbMuwktvcNPuV1y",
-      "tmdb_id": 8367,
-      "tmdb_poster": "/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Rocky",
-    "year": 1976,
-    "song": "Gonna Fly Now - Theme From \"rocky\"",
-    "author": "Bill Conti",
-    "metadata": {
-      "original_title": "Rocky",
-      "spotify_track_id": "7iXYRR70wewzVYzWScm99j",
-      "tmdb_id": 1187746,
-      "tmdb_poster": "/hF8FLjZoZNYun6CHGaWqly6JtM7.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Rocky Iii",
-    "year": 1982,
-    "song": "Eye Of The Tiger",
-    "author": "Survivor",
-    "metadata": {
-      "original_title": "Rocky III",
-      "spotify_track_id": "2HHtWyy5CgaQbC7XSoOb0e",
-      "tmdb_id": 1371,
-      "tmdb_poster": "/5Mn0xgB8w9mi2Ifo7WdS8aSgA7V.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Rocky Iv",
-    "year": 1986,
-    "song": "Hearts On Fire - From The Film, \"rocky Iv\"",
-    "author": "John Cafferty",
-    "metadata": {
-      "original_title": "Rocky IV",
-      "spotify_track_id": "5vI0C3TDTxySR6Oq8NWjE0",
-      "tmdb_id": 1374,
-      "tmdb_poster": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Réquiem Por Un Sueño",
-    "year": 2001,
-    "song": "Lux Aeterna",
-    "author": "Clint Mansell, Kronos Quartet",
-    "metadata": {
-      "original_title": "Requiem for a Dream",
-      "spotify_track_id": "62Da3JOu9H9EIgmqV7DoLG",
-      "tmdb_id": 641,
-      "tmdb_poster": "/2B5brHMhaHN1d9KmdeZI6RlU3aE.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Saludos Amigos",
-    "year": 2020,
-    "song": "Saludos Amigos - From \"saludos Amigos\"",
-    "author": "Studio Chorus - Saludos Amigos",
-    "metadata": {
-      "original_title": "Saludos Amigos",
-      "spotify_track_id": "58NywJgcHVLXrndCpLATvg",
-      "tmdb_id": 14906,
-      "tmdb_poster": "/AqNjU3PS1WCKZIIVK9o8l0s7ltH.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Shrek",
-    "year": 2026,
-    "song": "All Star",
-    "author": "Smash Mouth",
-    "metadata": {
-      "original_title": "Shrek",
-      "spotify_track_id": "2t0NfhRIiib6zlCw2XlHoq",
-      "tmdb_id": 808,
-      "tmdb_poster": "/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Skyfall",
-    "year": 2012,
-    "song": "Skyfall",
-    "author": "Adele",
-    "metadata": {
-      "original_title": "Skyfall",
-      "spotify_track_id": "6VObnIkLVruX4UVyxWhlqm",
-      "tmdb_id": 37724,
-      "tmdb_poster": "/lz5kTkm3az7Ww0uTLRvCGgudnaa.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Sonrisas Y Lágrimas",
-    "year": 1965,
-    "song": "My Favorite Things",
-    "author": "Julie Andrews",
-    "metadata": {
-      "original_title": "The Sound of Music",
-      "spotify_track_id": "5bC3Elhc2z2mIjB8WPeSZv",
-      "tmdb_id": 15121,
-      "tmdb_poster": "/3mYxH1mwSmNoyZF4xvDvcEpH18F.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Space Jam",
-    "year": 1997,
-    "song": "I Believe I Can Fly",
-    "author": "R. Kelly",
-    "metadata": {
-      "original_title": "Space Jam",
-      "spotify_track_id": "3PCXLtid4Y3BGdCBW0pDEG",
-      "tmdb_id": 2300,
-      "tmdb_poster": "/i5QYBFIIrh6PngEsCj5fGX7gcI7.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Spider-man",
-    "year": 2002,
-    "song": "Main Title",
-    "author": "Danny Elfman",
-    "metadata": {
-      "original_title": "Spider-Man",
-      "spotify_track_id": "0U6lmEhmRVptZAX7HrauqG",
-      "tmdb_id": 557,
-      "tmdb_poster": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "La Guerra De Las Galaxias",
-    "year": 1977,
-    "song": "Star Wars Main Title And The Arrival At Naboo",
-    "author": "John Williams, London Symphony Orchestra, London Voices, New London Children's Choir",
-    "metadata": {
-      "original_title": "Star Wars",
-      "spotify_track_id": "3LpheVDaZXkUePlKbZi9Md",
-      "tmdb_id": 11,
-      "tmdb_poster": "/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Superman",
-    "year": 1979,
-    "song": "Theme From Superman - Concert Version",
-    "author": "John Williams",
-    "metadata": {
-      "original_title": "Superman",
-      "spotify_track_id": "4tABZngfyleLXr5wxHgRxZ",
-      "tmdb_id": 1924,
-      "tmdb_poster": "/sYJGXqaDQzJ2qu2bhMDyTFtww7q.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Tarzán",
-    "year": 1999,
-    "song": "En Mi Corazón Vivirás (versión De Phil) - De \"tarzan\"",
-    "author": "Phil Collins",
-    "metadata": {
-      "original_title": "Tarzan",
-      "spotify_track_id": "7tgR5zkdJzZc5OgMBwhwwx",
-      "tmdb_id": 37135,
-      "tmdb_poster": "/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Terminator",
-    "year": 1985,
-    "song": "Main Title - The Terminator",
-    "author": "Brad Fiedel",
-    "metadata": {
-      "original_title": "The Terminator",
-      "spotify_track_id": "6jNFXIiJDOvSzFqQOk0Gt9",
-      "tmdb_id": 218,
-      "tmdb_poster": "/9KI49SBnwAOzGcMw1onIki7vd2.jpg"
-    },
-    "difficulty": 2,
-    "genres": [
-      "ciencia_ficcion"
-    ]
-  },
-  {
-    "film": "The Rocky Horror Picture Show",
-    "year": 1978,
-    "song": "Time Warp",
-    "author": "Little Nell, Patricia Quinn, Richard O'brien",
-    "metadata": {
-      "original_title": "The Rocky Horror Picture Show",
-      "spotify_track_id": "4WFeJTXNHIS2wURtwlAkhu",
-      "tmdb_id": 36685,
-      "tmdb_poster": "/6xJuXrwpXHCJW51d3EJHGj3ZbM2.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Tiburón",
-    "year": 1975,
-    "song": "Main Title (theme From Jaws) - From \"jaws\"",
-    "author": "John Williams",
-    "metadata": {
-      "original_title": "Jaws",
-      "spotify_track_id": "55xly70WJY1cx5qsoogaqs",
-      "tmdb_id": 578,
-      "tmdb_poster": "/aCqHb3eFQV8raX30OfGurqPlpjh.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Titanic",
-    "year": 1998,
-    "song": "My Heart Will Go On - Love Theme From \"titanic\"",
-    "author": "Céline Dion, James Horner",
-    "metadata": {
-      "original_title": "Titanic",
-      "spotify_track_id": "7F1yVPuJ4xRdrDvf8OL0HF",
-      "tmdb_id": 597,
-      "tmdb_poster": "/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Top Gun: Ídolos Del Aire",
-    "year": 1986,
-    "song": "Danger Zone - From \"top Gun\" Original Soundtrack",
-    "author": "Kenny Loggins",
-    "metadata": {
-      "original_title": "Top Gun",
-      "spotify_track_id": "3hMHG6lx9QHVcfYSUr5PoM",
-      "tmdb_id": 744,
-      "tmdb_poster": "/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg"
-    },
-    "difficulty": 1,
-    "genres": []
-  },
-  {
-    "film": "Toy Story",
-    "year": 1996,
-    "song": "Hay Un Amigo En Mí",
-    "author": "Tony Cruz",
-    "metadata": {
-      "original_title": "Toy Story",
-      "spotify_track_id": "5xo6EfJOJhQGHIHv2RBIpB",
-      "tmdb_id": 862,
-      "tmdb_poster": "/jvn7wy3RSNEXnFSXLpH2of2LcV6.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Trainspotting",
-    "year": 1996,
-    "song": "Lust For Life",
-    "author": "Iggy Pop",
-    "metadata": {
-      "original_title": "Trainspotting",
-      "spotify_track_id": "21YxK0klhpfLW8budkJaMF",
-      "tmdb_id": 627,
-      "tmdb_poster": "/qN6MomkBcDx0QilCagcwhPBgXU3.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Up",
-    "year": 2009,
-    "song": "Married Life",
-    "author": "Michael Giacchino",
-    "metadata": {
-      "original_title": "Up",
-      "spotify_track_id": "7iocNjLrxPHLl8njgRlv5U",
-      "tmdb_id": 14160,
-      "tmdb_poster": "/1N0LtzUueXrlnpL466jQBJ6iAuj.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Vaiana",
-    "year": 2016,
-    "song": "Qué Hay Más Allá",
-    "author": "María Parrado",
-    "metadata": {
-      "original_title": "Moana",
-      "spotify_track_id": "6orRFPOpyksp2Hgh7KDehQ",
-      "tmdb_id": 277834,
-      "tmdb_poster": "/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "West Side Story (amor Sin Barreras)",
-    "year": 1963,
-    "song": "West Side Story: Act I: America",
-    "author": "Leonard Bernstein, West Side Story Ensemble (original Motion Picture Soundtrack), Johnny Green, West Side Story Orchestra",
-    "metadata": {
-      "original_title": "West Side Story",
-      "spotify_track_id": "1RZ6jzlPeEaDeKYe7IJ792",
-      "tmdb_id": 1725,
-      "tmdb_poster": "/AejrmDDmafBvaOLXWNct9fbJnZt.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Wonder Woman",
-    "year": 2017,
-    "song": "Is She With You? (from \"batman V Superman: Dawn Of Justice\" Soundtrack)",
-    "author": "Hans Zimmer, Junkie Xl",
-    "metadata": {
-      "original_title": "Wonder Woman",
-      "spotify_track_id": "47q8TxNygd1EV89Kq7uwe2",
-      "tmdb_id": 297762,
-      "tmdb_poster": "/skVHFykCQrEwQJdrpUHgJbvqo1u.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  },
-  {
-    "film": "Érase Una Vez En… Hollywood",
-    "year": 2019,
-    "song": "Bring A Little Lovin'",
-    "author": "Los Bravos",
-    "metadata": {
-      "original_title": "Once Upon a Time... in Hollywood",
-      "spotify_track_id": "1g9Qn3WkiUOHluP646iLzU",
-      "tmdb_id": 466272,
-      "tmdb_poster": "/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg"
-    },
-    "difficulty": 2,
-    "genres": []
-  }
-]
+    {
+      "film": "12 Hombres Sin Piedad",
+      "year": 1958,
+      "song": "Main Theme - From The Longest Day 1962",
+      "author": "Henry Fonda, Maurice Jarre Orchestra",
+      "metadata": {
+        "original_title": "12 Angry Men",
+        "spotify_track_id": "0cnyFyT5ctCZcUoidizePe",
+        "tmdb_id": 389,
+        "tmdb_poster": "/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18
+      ]
+    },
+    {
+      "film": "2001: Una Odisea Del Espacio",
+      "year": 1968,
+      "song": "Also Sprach Zarathustra, Op. 30: I. Prelude. Sonnenaufgang",
+      "author": "Richard Strauss, Berliner Philharmoniker, Herbert Von Karajan",
+      "metadata": {
+        "original_title": "2001: A Space Odyssey",
+        "spotify_track_id": "43YwOmGUOS3zzGvj1Feszb",
+        "tmdb_id": 62,
+        "tmdb_poster": "/sln50uQYigvu5AvN72JfYfu1ckq.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        878,
+        9648,
+        12
+      ]
+    },
+    {
+      "film": "28 Días Después",
+      "year": 2003,
+      "song": "28 Days Later Main Theme (from \"28 Days Later\")",
+      "author": "Geek Music",
+      "metadata": {
+        "original_title": "28 Days Later",
+        "spotify_track_id": "47AsriNLhUcdnMAB9UPFxx",
+        "tmdb_id": 170,
+        "tmdb_poster": "/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        27,
+        53,
+        878
+      ]
+    },
+    {
+      "film": "8 Millas",
+      "year": 2003,
+      "song": "Lose Yourself - From \"8 Mile\" Soundtrack",
+      "author": "Eminem",
+      "metadata": {
+        "original_title": "8 Mile",
+        "spotify_track_id": "1a3xfVZyJnlKn4t65ccBbp",
+        "tmdb_id": 65,
+        "tmdb_poster": "/bRSMRkf06aUeZcmr5Cyxuv5vk4T.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10402
+      ]
+    },
+    {
+      "film": "Aladdin (aladino)",
+      "year": 1992,
+      "song": "Un Mundo Ideal",
+      "author": "David García Llop, Nikki García",
+      "metadata": {
+        "original_title": "Aladdin",
+        "spotify_track_id": "1EklDiRTYbeaIwnszQLGzI",
+        "tmdb_id": 343693,
+        "tmdb_poster": "/6NGjDdErVOmnoqLnjh0ouRfxerS.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        14,
+        10751,
+        12
+      ]
+    },
+    {
+      "film": "Algo Para Recordar",
+      "year": 1993,
+      "song": "When I Fall In Love (feat. Clive Griffin)",
+      "author": "Céline Dion, Clive Griffin",
+      "metadata": {
+        "original_title": "Sleepless in Seattle",
+        "spotify_track_id": "34jAkbORFZkPpn8lwuHPPD",
+        "tmdb_id": 858,
+        "tmdb_poster": "/1buV1tX56kIqRo6FomnmoMIPbj1.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Alicia En El País De Las Maravillas",
+      "year": 1954,
+      "song": "Main Title (alice In Wonderland)",
+      "author": "The Jud Conlon Chorus",
+      "metadata": {
+        "original_title": "Alice in Wonderland",
+        "spotify_track_id": "04kx6QHqnBwpxC7kdRlCsn",
+        "tmdb_id": 12092,
+        "tmdb_poster": "/zOJKtTdToc8FcjmmbavkjUxv2Ue.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        14,
+        12
+      ]
+    },
+    {
+      "film": "Amadeus",
+      "year": 1984,
+      "song": "Symphony No. 25 In G Minor, K. 183: I. Allegro Con Brio",
+      "author": "Wolfgang Amadeus Mozart, Capella Istropolitana, Barry Wordsworth",
+      "metadata": {
+        "original_title": "Amadeus",
+        "spotify_track_id": "30BM5cysrUvZYzu4oMRPhZ",
+        "tmdb_id": 279,
+        "tmdb_poster": "/nI24KqCadkHbjF4LpVHmUhQRNDn.jpg"
+      },
+      "difficulty": 3,
+      "genres": [
+        18,
+        36,
+        10402
+      ]
+    },
+    {
+      "film": "Amelie",
+      "year": 2001,
+      "song": "Comptine D'un Autre Été, L'après-midi",
+      "author": "Yann Tiersen",
+      "metadata": {
+        "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+        "spotify_track_id": "1Re30B3AC2Ra8n4f2xsDW3",
+        "tmdb_id": 194,
+        "tmdb_poster": "/mYvUib00miJWxWkiXhy3QnrCj96.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        10749
+      ]
+    },
+    {
+      "film": "American Beauty",
+      "year": 2000,
+      "song": "Dead Already",
+      "author": "Thomas Newman",
+      "metadata": {
+        "original_title": "American Beauty",
+        "spotify_track_id": "5uuZI0l5SMRMAIVzPl1xgU",
+        "tmdb_id": 14,
+        "tmdb_poster": "/wdXHzwh4DCifigYD50YEYM6CJS3.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18
+      ]
+    },
+    {
+      "film": "Apocalypse Now",
+      "year": 1979,
+      "song": "Ride Of The Valkyries (the Watchmen)",
+      "author": "London Symphony Orchestra",
+      "metadata": {
+        "original_title": "Apocalypse Now",
+        "spotify_track_id": "7JczDg05i29N5C3VMZKIVA",
+        "tmdb_id": 28,
+        "tmdb_poster": "/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10752
+      ]
+    },
+    {
+      "film": "Armageddon",
+      "year": 1998,
+      "song": "I Don't Want To Miss A Thing - From \"armageddon\" Soundtrack",
+      "author": "Aerosmith",
+      "metadata": {
+        "original_title": "Armageddon",
+        "spotify_track_id": "225xvV8r1yKMHErSWivnow",
+        "tmdb_id": 95,
+        "tmdb_poster": "/yYtlk1E28L1kQG6VcazkHhv29Ur.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        878,
+        12
+      ]
+    },
+    {
+      "film": "Bambi",
+      "year": 1950,
+      "song": "Love Is A Song - Bambi Original Soundtrack",
+      "author": "Donald Novis",
+      "metadata": {
+        "original_title": "Bambi",
+        "spotify_track_id": "6j7vVEX8LcCrSkEnsZbP3T",
+        "tmdb_id": 3170,
+        "tmdb_poster": "/q9LI5Uloz1WRqaJjr8Tq2aOeSeH.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        18,
+        10751
+      ]
+    },
+    {
+      "film": "Barry Lyndon",
+      "year": 1976,
+      "song": "Sarabande (from \"barry Lyndon\")",
+      "author": "The City Of Prague Philharmonic Orchestra",
+      "metadata": {
+        "original_title": "Barry Lyndon",
+        "spotify_track_id": "2Xgz3y903BxnPdjgA7FDiP",
+        "tmdb_id": 3175,
+        "tmdb_poster": "/x28u4tvapVCPaVWHyvrEyLZWyk8.jpg"
+      },
+      "difficulty": 3,
+      "genres": [
+        18,
+        10749,
+        10752,
+        36
+      ]
+    },
+    {
+      "film": "Batman",
+      "year": 1989,
+      "song": "The Batman Theme",
+      "author": "Danny Elfman",
+      "metadata": {
+        "original_title": "Batman",
+        "spotify_track_id": "50csT5Qb2qOF7lHdDQ1Sbx",
+        "tmdb_id": 268,
+        "tmdb_poster": "/fpY5cNPIbKYpdBtukCMtBMMt1s3.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        14,
+        28,
+        80
+      ]
+    },
+    {
+      "film": "Ben-hur",
+      "year": 1960,
+      "song": "Prelude - Main Title",
+      "author": "Miklós Rózsa",
+      "metadata": {
+        "original_title": "Ben-Hur",
+        "spotify_track_id": "7sBqkVK07Gj1O1MZIfPSV2",
+        "tmdb_id": 665,
+        "tmdb_poster": "/bG0yaRTC7N0bWhlaPXsyi3ZnbMo.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        36,
+        18,
+        12
+      ]
+    },
+    {
+      "film": "Blade Runner",
+      "year": 1982,
+      "song": "Blade Runner - End Titles",
+      "author": "Vangelis",
+      "metadata": {
+        "original_title": "Blade Runner",
+        "spotify_track_id": "1u1ATklwZesAvq1whHsI8Z",
+        "tmdb_id": 78,
+        "tmdb_poster": "/pBA2J6iQMiP5Zd4ewMKdOWfq1HV.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        878,
+        18,
+        53
+      ]
+    },
+    {
+      "film": "Blancanieves Y Los Siete Enanitos",
+      "year": 1941,
+      "song": "Ay Ho/ Cavar, Cavar",
+      "author": "Jesús Aguirre, Santiago Aguirre, Tony Cruz, Joaquín Díaz, Carlos Garcia, Miguel Ángel Godó, Eduardo Moreno, Julio Núñez, Juan Perucho, Ángel Sáiz",
+      "metadata": {
+        "original_title": "Snow White and the Seven Dwarfs",
+        "spotify_track_id": "6JKHBduEoHjQeTfA2luHL5",
+        "tmdb_id": 408,
+        "tmdb_poster": "/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        14,
+        16,
+        10751
+      ]
+    },
+    {
+      "film": "Braveheart",
+      "year": 1995,
+      "song": "The Battle Of Stirling [braveheart - Original Sound Track]",
+      "author": "James Horner, The Choir Of Westminster Abbey, London Symphony Orchestra",
+      "metadata": {
+        "original_title": "Braveheart",
+        "spotify_track_id": "2lcKQSeE9YSs3K3AOvhv98",
+        "tmdb_id": 197,
+        "tmdb_poster": "/cDMYybBU4COJfTwcPgnihwY5EiP.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        18,
+        36,
+        10752
+      ]
+    },
+    {
+      "film": "Brokeback Mountain: En Terreno Vedado",
+      "year": 2005,
+      "song": "He Was A Friend Of Mine",
+      "author": "Willie Nelson",
+      "metadata": {
+        "original_title": "Brokeback Mountain",
+        "spotify_track_id": "0SmxJoIlgyZbeZgqO1v9hq",
+        "tmdb_id": 142,
+        "tmdb_poster": "/kRgrTPM6uDiLBgASk8j3RBTE49d.jpg"
+      },
+      "difficulty": 3,
+      "genres": [
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Cabaret",
+      "year": 1972,
+      "song": "Cabaret",
+      "author": "Liza Minnelli",
+      "metadata": {
+        "original_title": "Cabaret",
+        "spotify_track_id": "7AFy1aN1RQVgGOXzCtrK87",
+        "tmdb_id": 10784,
+        "tmdb_poster": "/5l7V58hgBEPZDQGFw162oJV9d3q.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10402,
+        10749,
+        18
+      ]
+    },
+    {
+      "film": "Cadena Perpetua",
+      "year": 1995,
+      "song": "End Title",
+      "author": "Thomas Newman",
+      "metadata": {
+        "original_title": "The Shawshank Redemption",
+        "spotify_track_id": "5qWFRThiYrdNTFAkvGnlwc",
+        "tmdb_id": 278,
+        "tmdb_poster": "/uRRTV7p6l2ivtODWJVVAMRrwTn2.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        80
+      ]
+    },
+    {
+      "film": "Cantando Bajo La Lluvia",
+      "year": 1953,
+      "song": "Main Title (singin' In The Rain)",
+      "author": "Gene Kelly, Debbie Reynolds, Donald O'connor, Mgm Studio Orchestra",
+      "metadata": {
+        "original_title": "Singin' in the Rain",
+        "spotify_track_id": "04FV3YofsJsPVKTZbScTbK",
+        "tmdb_id": 872,
+        "tmdb_poster": "/5r8jD5R6EzpQ5VLodbzTNhvKcGw.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        10749
+      ]
+    },
+    {
+      "film": "Carros De Fuego",
+      "year": 1982,
+      "song": "Chariots Of Fire",
+      "author": "Vangelis",
+      "metadata": {
+        "original_title": "Chariots of Fire",
+        "spotify_track_id": "6GxhckZeqoWNF9n9XS91HS",
+        "tmdb_id": 9443,
+        "tmdb_poster": "/pXgqJhGWRJJCzVfnsSRCDTvxyjL.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        36
+      ]
+    },
+    {
+      "film": "Casino Royale",
+      "year": 2006,
+      "song": "You Know My Name - From Casino Royale",
+      "author": "Chris Cornell",
+      "metadata": {
+        "original_title": "Casino Royale",
+        "spotify_track_id": "0OQAko9qXFwMhLQO4o48nU",
+        "tmdb_id": 36557,
+        "tmdb_poster": "/2Tygvjqrd6EfvOLwuS7bEIbHwH9.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        28,
+        53
+      ]
+    },
+    {
+      "film": "Chinatown",
+      "year": 1974,
+      "song": "Love Theme From Chinatown (main Title) - From The \"chinatown\" Soundtrack",
+      "author": "Jerry Goldsmith",
+      "metadata": {
+        "original_title": "Chinatown",
+        "spotify_track_id": "4Zucyo10zPhTN0oIIn1i6U",
+        "tmdb_id": 829,
+        "tmdb_poster": "/1wO2OmUCWButQyVPGWQEZn5twca.jpg"
+      },
+      "difficulty": 3,
+      "genres": [
+        80,
+        9648,
+        53
+      ]
+    },
+    {
+      "film": "Cinema Paradiso",
+      "year": 1989,
+      "song": "Cinema Paradiso (main Theme)",
+      "author": "Ennio Morricone",
+      "metadata": {
+        "original_title": "Nuovo Cinema Paradiso",
+        "spotify_track_id": "0FFOaRW0WTJgd12cKEKuaC",
+        "tmdb_id": 11216,
+        "tmdb_poster": "/hHwsr3t5n7VVUbPyU8VZswn0jkL.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Coco",
+      "year": 2017,
+      "song": "Recuérdame",
+      "author": "Carlos Rivera",
+      "metadata": {
+        "original_title": "Coco",
+        "spotify_track_id": "7leda3SKodxvAVgqWfN9aA",
+        "tmdb_id": 354912,
+        "tmdb_poster": "/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10751,
+        16,
+        10402,
+        12
+      ]
+    },
+    {
+      "film": "Conan, El Bárbaro",
+      "year": 1982,
+      "song": "The Anvil Of Crom (form \"conan The Barbarian\")",
+      "author": "Basil Poledouris",
+      "metadata": {
+        "original_title": "Conan the Barbarian",
+        "spotify_track_id": "5mxTww2EuHbK0txi7U5C0A",
+        "tmdb_id": 9387,
+        "tmdb_poster": "/Avfp508AE3GlTIiEIzu8ZB9goKp.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        14,
+        28
+      ]
+    },
+    {
+      "film": "Desayuno Con Diamantes",
+      "year": 1963,
+      "song": "Moon River (from Breakfast At Tiffany's) [remastered]",
+      "author": "Audrey Hepburn",
+      "metadata": {
+        "original_title": "Breakfast at Tiffany's",
+        "spotify_track_id": "1XwAKjAZ1xDZOcuyZoqce4",
+        "tmdb_id": 164,
+        "tmdb_poster": "/aHFIHN7yenVYk1wkDWJ7hs1czh4.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        10749,
+        18
+      ]
+    },
+    {
+      "film": "Deseando Amar",
+      "year": 2001,
+      "song": "Yumeji's Theme - Theme From 'in The Mood For Love'",
+      "author": "Shigeru Umebayashi",
+      "metadata": {
+        "original_title": "花樣年華",
+        "spotify_track_id": "0yVq58uQ2Bp2OVADYlLHNk",
+        "tmdb_id": 843,
+        "tmdb_poster": "/ivyPPBVdDcwJy8LI8xccDFZqIaU.jpg"
+      },
+      "difficulty": 3,
+      "genres": [
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Dirty Dancing",
+      "year": 1988,
+      "song": "(i've Had) The Time Of My Life - From \"dirty Dancing\" Soundtrack",
+      "author": "Bill Medley, Jennifer Warnes",
+      "metadata": {
+        "original_title": "Dirty Dancing",
+        "spotify_track_id": "6W7ztLBiRzBN46ZaPAcQ0F",
+        "tmdb_id": 88,
+        "tmdb_poster": "/Bqk2YfJRetrcKXnkavJZcqKpUC.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10402,
+        10749
+      ]
+    },
+    {
+      "film": "Django Desencadenado",
+      "year": 2013,
+      "song": "Django",
+      "author": "Luis Bacalov, Rocky Roberts",
+      "metadata": {
+        "original_title": "Django Unchained",
+        "spotify_track_id": "6I2BDcHnG8De0Kn7mVSNZE",
+        "tmdb_id": 68718,
+        "tmdb_poster": "/fIxAE6BKfAzhPRYm7DdldBaYu5T.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        37
+      ]
+    },
+    {
+      "film": "Doctor Zhivago",
+      "year": 1966,
+      "song": "Lara's Theme - Swing Version",
+      "author": "Maurice Jarre",
+      "metadata": {
+        "original_title": "Doctor Zhivago",
+        "spotify_track_id": "6pXuC0wUEa4uZ9joYQKv21",
+        "tmdb_id": 907,
+        "tmdb_poster": "/ewV2RlSlMs5jRKVlFNHZ9u8t6Ms.jpg"
+      },
+      "difficulty": 3,
+      "genres": [
+        18,
+        10749,
+        10752
+      ]
+    },
+    {
+      "film": "Donnie Darko",
+      "year": 2002,
+      "song": "Mad World",
+      "author": "Gary Jules, Michael Andrews",
+      "metadata": {
+        "original_title": "Donnie Darko",
+        "spotify_track_id": "3JOVTQ5h8HGFnDdp4VT3MP",
+        "tmdb_id": 141,
+        "tmdb_poster": "/1YjDHBC4v2O7IQDKYAiM8fOxzf3.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        14,
+        18,
+        9648
+      ]
+    },
+    {
+      "film": "Drácula De Bram Stoker",
+      "year": 1993,
+      "song": "Love Remembered (from \"bram Stoker's Dracula\" Soundtrack)",
+      "author": "Wojciech Kilar",
+      "metadata": {
+        "original_title": "Bram Stoker's Dracula",
+        "spotify_track_id": "4PmjolpLqJ9G14l2ORO06x",
+        "tmdb_id": 6114,
+        "tmdb_poster": "/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10749,
+        27
+      ]
+    },
+    {
+      "film": "Drive",
+      "year": 2011,
+      "song": "Nightcall",
+      "author": "Kavinsky",
+      "metadata": {
+        "original_title": "Drive",
+        "spotify_track_id": "0U0ldCRmgCqhVvD6ksG63j",
+        "tmdb_id": 64690,
+        "tmdb_poster": "/r63LaAngw0LAkgYmvA5gllmOUjm.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        53,
+        80
+      ]
+    },
+    {
+      "film": "Dumbo",
+      "year": 1947,
+      "song": "Main Title - Dumbo",
+      "author": "Frank Churchill, Oliver Wallace",
+      "metadata": {
+        "original_title": "Dumbo",
+        "spotify_track_id": "0QLgTsCvNIzd9283adAF6Q",
+        "tmdb_id": 11360,
+        "tmdb_poster": "/xXBX2G5dc2WUZslcWuAXYKvYKoI.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751
+      ]
+    },
+    {
+      "film": "E.t. El Extraterrestre",
+      "year": 1982,
+      "song": "End Credits - Soundtrack Reissue (2002)",
+      "author": "John Williams",
+      "metadata": {
+        "original_title": "E.T. the Extra-Terrestrial",
+        "spotify_track_id": "5NHDsqd1YrYqTJxaLddelw",
+        "tmdb_id": 601,
+        "tmdb_poster": "/4kixNqJAu7hWpZOnOsznL7YPuuQ.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        878,
+        10751
+      ]
+    },
+    {
+      "film": "Easy Rider (buscando Mi Destino)",
+      "year": 1974,
+      "song": "Born To Be Wild",
+      "author": "Steppenwolf",
+      "metadata": {
+        "original_title": "Easy Rider",
+        "spotify_track_id": "63OFKbMaZSDZ4wtesuuq6f",
+        "tmdb_id": 624,
+        "tmdb_poster": "/aj7TJr1A2QzlAjx5fBxM4NLSObE.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        18
+      ]
+    },
+    {
+      "film": "El Bosque",
+      "year": 2004,
+      "song": "The Gravel Road - Score",
+      "author": "James Newton Howard",
+      "metadata": {
+        "original_title": "The Village",
+        "spotify_track_id": "5ynPIIbdGo2OBoX9vcnUo5",
+        "tmdb_id": 6947,
+        "tmdb_poster": "/2urZW6YNuWHLwY63Q5d6RfCzOdx.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        9648,
+        53
+      ]
+    },
+    {
+      "film": "El Bueno, El Feo Y El Malo",
+      "year": 1968,
+      "song": "El Bueno, El Feo Y El Malo - Ii Buono, Ii Brutto, Il Cattivo - Tema Principal",
+      "author": "Ennio Morricone",
+      "metadata": {
+        "original_title": "Il buono, il brutto, il cattivo",
+        "spotify_track_id": "5pB2NnApayVJ6mvpa8XfjU",
+        "tmdb_id": 429,
+        "tmdb_poster": "/71HKV5F9bfm05ZZnjGmRuFpUVCo.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        37
+      ]
+    },
+    {
+      "film": "El Caballero Oscuro",
+      "year": 2008,
+      "song": "Why So Serious?",
+      "author": "Hans Zimmer, James Newton Howard",
+      "metadata": {
+        "original_title": "The Dark Knight",
+        "spotify_track_id": "1wdoaja3ueHHvzobn2jE2n",
+        "tmdb_id": 155,
+        "tmdb_poster": "/8QDQExnfNFOtabLDKqfDQuHDsIg.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        80,
+        53
+      ]
+    },
+    {
+      "film": "El Club De Los Cinco",
+      "year": 1989,
+      "song": "Don't You (forget About Me)",
+      "author": "Simple Minds",
+      "metadata": {
+        "original_title": "The Breakfast Club",
+        "spotify_track_id": "5Y8Rj0s6wuM5DlQdllYiWl",
+        "tmdb_id": 2108,
+        "tmdb_poster": "/f0DhsS50Ksn6rBZhwsH9Rgh9xGi.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        18
+      ]
+    },
+    {
+      "film": "El Exorcista",
+      "year": 1975,
+      "song": "The Exorcist Theme (tubular Bells) [short]",
+      "author": "Retrospectre",
+      "metadata": {
+        "original_title": "The Exorcist",
+        "spotify_track_id": "2kdvvPKkK7HHKmaUrjRYFV",
+        "tmdb_id": 9552,
+        "tmdb_poster": "/hwJvgHQ4tf9eRQec1ouAgg33dPV.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        27,
+        18
+      ]
+    },
+    {
+      "film": "El Graduado",
+      "year": 1969,
+      "song": "The Sound Of Silence",
+      "author": "Simon & Garfunkel",
+      "metadata": {
+        "original_title": "The Graduate",
+        "spotify_track_id": "3YfS47QufnLDFA71FUsgCM",
+        "tmdb_id": 37247,
+        "tmdb_poster": "/z8QQ9T38rNEoCHlqHMgcJfwbZRd.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10749,
+        35
+      ]
+    },
+    {
+      "film": "El Gran Showman",
+      "year": 2017,
+      "song": "This Is Me",
+      "author": "Keala Settle, The Greatest Showman Ensemble",
+      "metadata": {
+        "original_title": "The Greatest Showman",
+        "spotify_track_id": "45aBsnKRWUzhwbcqOJLwfe",
+        "tmdb_id": 316029,
+        "tmdb_poster": "/5HjkqEeLPubkMPM9TgV6kB3Iyn0.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18
+      ]
+    },
+    {
+      "film": "El Guardaespaldas",
+      "year": 1992,
+      "song": "I Will Always Love You",
+      "author": "Whitney Houston",
+      "metadata": {
+        "original_title": "The Bodyguard",
+        "spotify_track_id": "4eHbdreAnSOrDDsFfc4Fpm",
+        "tmdb_id": 619,
+        "tmdb_poster": "/pnGQbumT2SejsZprnszaI2bLA4R.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "El Jorobado De Notre Dame",
+      "year": 1996,
+      "song": "The Bells Of Notre Dame",
+      "author": "David Ogden Stiers, Tony Jay, Paul Kandel, Chorus - The Hunchback Of Notre Dame",
+      "metadata": {
+        "original_title": "The Hunchback of Notre Dame",
+        "spotify_track_id": "7jZcWttgE7HF35YeB9dzq8",
+        "tmdb_id": 10545,
+        "tmdb_poster": "/pvnmJckCNgzEbuE5sHXX3tDRQox.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        16,
+        10751
+      ]
+    },
+    {
+      "film": "El Libro De La Selva",
+      "year": 1968,
+      "song": "Busca Lo Más Vital",
+      "author": "Ad Santos, Germán Valdés",
+      "metadata": {
+        "original_title": "The Jungle Book",
+        "spotify_track_id": "2Yy18WPd9Ho4RTJHE64boS",
+        "tmdb_id": 9325,
+        "tmdb_poster": "/1w8wk8htVPW5cdCYnRU4bt5y5Fw.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10751,
+        16,
+        12
+      ]
+    },
+    {
+      "film": "El Padrino",
+      "year": 1972,
+      "song": "The Godfather Waltz (main Title)",
+      "author": "Nino Rota, Carlo Savina",
+      "metadata": {
+        "original_title": "The Godfather",
+        "spotify_track_id": "3WoSJF85H0qywD4qLp4HDd",
+        "tmdb_id": 238,
+        "tmdb_poster": "/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        18,
+        80
+      ]
+    },
+    {
+      "film": "El Pianista",
+      "year": 2002,
+      "song": "Nocturne In C-sharp Minor",
+      "author": "Frédéric Chopin, Vladimir Feltsman",
+      "metadata": {
+        "original_title": "The Pianist",
+        "spotify_track_id": "0KhT24AgBxl4GjUB4Yz5fZ",
+        "tmdb_id": 423,
+        "tmdb_poster": "/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10752
+      ]
+    },
+    {
+      "film": "El Piano",
+      "year": 1993,
+      "song": "The Heart Asks Pleasure First",
+      "author": "Michael Nyman",
+      "metadata": {
+        "original_title": "The Piano",
+        "spotify_track_id": "4RW7EZi7SHSLRwvn1Q8Mqj",
+        "tmdb_id": 713,
+        "tmdb_poster": "/6Dr3APk7mPUpiqbLrHXQG9nJ0R9.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "El Planeta De Los Simios",
+      "year": 1968,
+      "song": "Main Title",
+      "author": "Jerry Goldsmith",
+      "metadata": {
+        "original_title": "Planet of the Apes",
+        "spotify_track_id": "57ZFW90qBiXxuhsPQqzDhR",
+        "tmdb_id": 871,
+        "tmdb_poster": "/pMLpuzyeXFsttiW0dHzJLH5FXyK.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        878,
+        12,
+        18,
+        28
+      ]
+    },
+    {
+      "film": "El Precio Del Poder",
+      "year": 1984,
+      "song": "Main Title (from The Motion Picture \"scarface\")",
+      "author": "Giorgio Moroder",
+      "metadata": {
+        "original_title": "Scarface",
+        "spotify_track_id": "51wm7yXftCtK0ySLfN3kHD",
+        "tmdb_id": 111,
+        "tmdb_poster": "/iDABT5GD9OQmFiXM3wR0DJIxtkY.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        80,
+        18
+      ]
+    },
+    {
+      "film": "El Puente Sobre El Río Kwai",
+      "year": 1957,
+      "song": "Colonel Bogey March",
+      "author": "Kenneth J. Alford, John Williams, Boston Pops Orchestra",
+      "metadata": {
+        "original_title": "The Bridge on the River Kwai",
+        "spotify_track_id": "26mF0jZZvtkZrW3Uff0n6F",
+        "tmdb_id": 826,
+        "tmdb_poster": "/z5uKyonXIGiVub5RtJKaPgGevlI.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        36,
+        10752
+      ]
+    },
+    {
+      "film": "El Rey León",
+      "year": 1994,
+      "song": "El Ciclo De La Vida",
+      "author": "Tata Vega",
+      "metadata": {
+        "original_title": "The Lion King",
+        "spotify_track_id": "1VHZrdrUFov4MX4X3gHULf",
+        "tmdb_id": 8587,
+        "tmdb_poster": "/b0MxU37dNmMwKtoPVYPKOZSIrIn.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        16,
+        10751,
+        18
+      ]
+    },
+    {
+      "film": "El Último Mohicano",
+      "year": 1992,
+      "song": "Main Title",
+      "author": "Trevor Jones",
+      "metadata": {
+        "original_title": "The Last of the Mohicans",
+        "spotify_track_id": "010zZfqsh3WFVlsIpwA2HI",
+        "tmdb_id": 9361,
+        "tmdb_poster": "/mM9ewvwSZM5DdHFeSaFtRJYDCij.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        36,
+        10749,
+        10752
+      ]
+    },
+    {
+      "film": "En Busca Del Arca Perdida",
+      "year": 1981,
+      "song": "En Busca Del Arca Perdida - En Busca Del Arca Perdida",
+      "author": "Soundtrack Band",
+      "metadata": {
+        "original_title": "Raiders of the Lost Ark",
+        "spotify_track_id": "0fbqMPKPdpvbWOnJrsQLCO",
+        "tmdb_id": 85,
+        "tmdb_poster": "/tECLVwLCMexSkls33RTCwedRZ6d.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        28
+      ]
+    },
+    {
+      "film": "Encanto",
+      "year": 2021,
+      "song": "No Se Habla De Bruno",
+      "author": "Carolina Gaitán - La Gaita, Mauro Castillo, Daniela Sierra, Juanse Diez, Isabel Garcés, Olga Lucía Vives, Encanto - Elenco",
+      "metadata": {
+        "original_title": "Encanto",
+        "spotify_track_id": "5QKk5N5xJQGsWMhPM80Kfv",
+        "tmdb_id": 568124,
+        "tmdb_poster": "/d0ezQ1Jz0lpNsX1skEmIvqRL7mN.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        35,
+        10751,
+        14
+      ]
+    },
+    {
+      "film": "Encuentros En La Tercera Fase",
+      "year": 1978,
+      "song": "Wild Signals",
+      "author": "John Williams",
+      "metadata": {
+        "original_title": "Close Encounters of the Third Kind",
+        "spotify_track_id": "6tvzakkt80JJBQDwv7gOJ2",
+        "tmdb_id": 840,
+        "tmdb_poster": "/btE3LrMhuFa8sfPGxHRC4hGyEjr.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        878,
+        18
+      ]
+    },
+    {
+      "film": "Enredados",
+      "year": 2011,
+      "song": "Cuando Mi Vida Va A Comenzar",
+      "author": "Carmen López",
+      "metadata": {
+        "original_title": "Tangled",
+        "spotify_track_id": "3pi3G64D1hqJrsXd7t4eUb",
+        "tmdb_id": 38757,
+        "tmdb_poster": "/z5kvXWek4smCyeWBDJQkT5sLc9T.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        12
+      ]
+    },
+    {
+      "film": "Érase Una Vez En… Hollywood",
+      "year": 2019,
+      "song": "Bring A Little Lovin'",
+      "author": "Los Bravos",
+      "metadata": {
+        "original_title": "Once Upon a Time... in Hollywood",
+        "spotify_track_id": "1g9Qn3WkiUOHluP646iLzU",
+        "tmdb_id": 466272,
+        "tmdb_poster": "/vKSyaptSA7zZ9H8mSfaDnvyQl9k.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        18,
+        53
+      ]
+    },
+    {
+      "film": "Fantasía",
+      "year": 1946,
+      "song": "Symphony No. 5",
+      "author": "Ludwig Van Beethoven, Chicago Symphony Orchestra",
+      "metadata": {
+        "original_title": "Fantasia",
+        "spotify_track_id": "6X3CvSxTWtCKHgyWV6DfDT",
+        "tmdb_id": 756,
+        "tmdb_poster": "/qCaPIUrbKsUKKFPykmKxc6bPbo0.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        14
+      ]
+    },
+    {
+      "film": "Fiebre Del Sábado Noche",
+      "year": 1978,
+      "song": "Stayin' Alive - From \"saturday Night Fever\" Soundtrack",
+      "author": "Bee Gees",
+      "metadata": {
+        "original_title": "Saturday Night Fever",
+        "spotify_track_id": "13SpmZVSu9m6SmsQuCYpF3",
+        "tmdb_id": 11009,
+        "tmdb_poster": "/qgwWjfpgGvUPoWXdq5kPLii6AOr.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18
+      ]
+    },
+    {
+      "film": "Flash Gordon",
+      "year": 1980,
+      "song": "Flash - Single Version",
+      "author": "Queen",
+      "metadata": {
+        "original_title": "Flash Gordon",
+        "spotify_track_id": "5aswWmjJLHBSYFknQjegfg",
+        "tmdb_id": 3604,
+        "tmdb_poster": "/uyHg2QH4B34fp941h0pGs4E9kxJ.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        878,
+        12,
+        28
+      ]
+    },
+    {
+      "film": "Flashdance",
+      "year": 1983,
+      "song": "Flashdance... What A Feeling - Extended Remix",
+      "author": "Irene Cara",
+      "metadata": {
+        "original_title": "Flashdance",
+        "spotify_track_id": "5Tpowbea8HKSOCDC6Z0QC2",
+        "tmdb_id": 535,
+        "tmdb_poster": "/pCZAf3d14wzhLPZRAOWjRpqgvWG.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Footloose",
+      "year": 1984,
+      "song": "Footloose - From \"footloose\" Soundtrack",
+      "author": "Kenny Loggins",
+      "metadata": {
+        "original_title": "Footloose",
+        "spotify_track_id": "2vz1CsL5WBsbpBcwgboTAw",
+        "tmdb_id": 1788,
+        "tmdb_poster": "/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Forrest Gump",
+      "year": 1994,
+      "song": "Forrest Gump Suite",
+      "author": "Alan Silvestri",
+      "metadata": {
+        "original_title": "Forrest Gump",
+        "spotify_track_id": "655OjsI6LbHdo3565qEfbE",
+        "tmdb_id": 13,
+        "tmdb_poster": "/azV6hV99lYkdhydsQbJCI6FqMl4.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        35,
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Frozen: El Reino Del Hielo",
+      "year": 2013,
+      "song": "¡sueltalo!",
+      "author": "Gisela",
+      "metadata": {
+        "original_title": "Frozen",
+        "spotify_track_id": "59g9tRMoYFB0eVeqamx3Pp",
+        "tmdb_id": 109445,
+        "tmdb_poster": "/sGNuWC4BwqOB4l0tkbKwLy70tXC.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        12,
+        14
+      ]
+    },
+    {
+      "film": "Full Monty",
+      "year": 1997,
+      "song": "You Can Leave Your Hat On",
+      "author": "Joe Cocker",
+      "metadata": {
+        "original_title": "The Full Monty",
+        "spotify_track_id": "1x9iOd3K1JC6tdjGZJpFgZ",
+        "tmdb_id": 9427,
+        "tmdb_poster": "/hZorGSNfwMUP8dU6C8HtIS0D9OO.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35
+      ]
+    },
+    {
+      "film": "Ghost (más Allá Del Amor)",
+      "year": 1990,
+      "song": "Unchained Melody",
+      "author": "The Righteous Brothers",
+      "metadata": {
+        "original_title": "Ghost",
+        "spotify_track_id": "2qhASBzpbFhPRtrnZ5lLnz",
+        "tmdb_id": 251,
+        "tmdb_poster": "/gwli1EMll3AJfL5waL9SWEtg3ZI.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        14,
+        10749,
+        53
+      ]
+    },
+    {
+      "film": "Gladiator",
+      "year": 2000,
+      "song": "Now We Are Free - Maximus Mix",
+      "author": "Hans Zimmer, Klaus Badelt, Lisa Gerrard, Gavin Greenaway",
+      "metadata": {
+        "original_title": "Gladiator",
+        "spotify_track_id": "2rBUT42i2t1wsfCmkn1TYA",
+        "tmdb_id": 98,
+        "tmdb_poster": "/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        28,
+        18,
+        12
+      ]
+    },
+    {
+      "film": "Goldeneye",
+      "year": 1995,
+      "song": "Goldeneye",
+      "author": "Tina Turner",
+      "metadata": {
+        "original_title": "GoldenEye",
+        "spotify_track_id": "528QhCT2v3HgD71RmrSUNW",
+        "tmdb_id": 710,
+        "tmdb_poster": "/plvWFyL4tQXgWOae0P8A4hECWLD.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        28,
+        53
+      ]
+    },
+    {
+      "film": "Good Bye, Lenin!",
+      "year": 2003,
+      "song": "Summer 78 (1)",
+      "author": "Yann Tiersen, Claire Pichet",
+      "metadata": {
+        "original_title": "Good Bye, Lenin!",
+        "spotify_track_id": "6VfbrkjPu99TsjTG9PvMkU",
+        "tmdb_id": 338,
+        "tmdb_poster": "/32mQrRhkZofgMmGEHVNsTUHARWr.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        18
+      ]
+    },
+    {
+      "film": "Granujas A Todo Ritmo (the Blues Brothers)",
+      "year": 1990,
+      "song": "Everybody Needs Somebody To Love",
+      "author": "The Blues Brothers",
+      "metadata": {
+        "original_title": "The Blues Brothers",
+        "spotify_track_id": "1CtKHwDqsH3ctcCCI18N0g",
+        "tmdb_id": 525,
+        "tmdb_poster": "/rAeF8BlfaWnOBBI52x4hYztiDxY.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10402,
+        35,
+        80
+      ]
+    },
+    {
+      "film": "Grease",
+      "year": 1978,
+      "song": "Grease - From “grease”",
+      "author": "Frankie Valli",
+      "metadata": {
+        "original_title": "Grease",
+        "spotify_track_id": "6X1D6qbVmK48uoOD9nIvVV",
+        "tmdb_id": 621,
+        "tmdb_poster": "/flSy0dexE82TiS6Si2FtulSHk8o.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10749,
+        35
+      ]
+    },
+    {
+      "film": "Ha Nacido Una Estrella",
+      "year": 2018,
+      "song": "Shallow",
+      "author": "Lady Gaga, Bradley Cooper",
+      "metadata": {
+        "original_title": "A Star Is Born",
+        "spotify_track_id": "5lK18Pt33xNudq4qYDxIm8",
+        "tmdb_id": 332562,
+        "tmdb_poster": "/jAdNHXbswMuIhcRInIzphZvJElA.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10402,
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Hacia Rutas Salvajes",
+      "year": 2008,
+      "song": "Guaranteed",
+      "author": "Eddie Vedder",
+      "metadata": {
+        "original_title": "Into the Wild",
+        "spotify_track_id": "4LGF2tDg3878bs0mQPByZ4",
+        "tmdb_id": 5915,
+        "tmdb_poster": "/nsukpCUlvOfcZEcMIBN1m4coUkd.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        18
+      ]
+    },
+    {
+      "film": "Harry Potter Y La Piedra Filosofal",
+      "year": 2001,
+      "song": "Hedwig's Theme",
+      "author": "John Williams",
+      "metadata": {
+        "original_title": "Harry Potter and the Philosopher's Stone",
+        "spotify_track_id": "1n8NKQRg8LVHy7oUhUgbFF",
+        "tmdb_id": 671,
+        "tmdb_poster": "/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        12,
+        14
+      ]
+    },
+    {
+      "film": "Hasta Que Llegó Su Hora",
+      "year": 1969,
+      "song": "Once Upon A Time In The West (main Theme)",
+      "author": "Ennio Morricone",
+      "metadata": {
+        "original_title": "C'era una volta il West",
+        "spotify_track_id": "7sEpQIyx0ot2t6PhT7ycTZ",
+        "tmdb_id": 335,
+        "tmdb_poster": "/upiek8u4rHTrOJW9B0woXe4A4h7.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        37
+      ]
+    },
+    {
+      "film": "Hércules",
+      "year": 1997,
+      "song": "De Cero A Héroe",
+      "author": "Susan Martín, Helen Quiroga, Paula Bas, Cani González, María Caneda",
+      "metadata": {
+        "original_title": "Hercules",
+        "spotify_track_id": "1kIKCaRH85flXDJUKoxlUJ",
+        "tmdb_id": 11970,
+        "tmdb_poster": "/iwjP7ImLzXZjKHnCUChJThEtNJG.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        14,
+        12,
+        35,
+        10749
+      ]
+    },
+    {
+      "film": "Instinto Básico",
+      "year": 1992,
+      "song": "Main Theme (theme From Basic Instinct) - Original 1992 Soundtrack Album",
+      "author": "Jerry Goldsmith",
+      "metadata": {
+        "original_title": "Basic Instinct",
+        "spotify_track_id": "0W3Fv89IF7mdPBY8glohzu",
+        "tmdb_id": 402,
+        "tmdb_poster": "/7iUhPh6B5C4T1osYDzoUchjb3i4.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        53,
+        9648
+      ]
+    },
+    {
+      "film": "Interstellar",
+      "year": 2014,
+      "song": "No Time For Caution",
+      "author": "Hans Zimmer",
+      "metadata": {
+        "original_title": "Interstellar",
+        "spotify_track_id": "5aaXqH8rgKZxg61HjECldi",
+        "tmdb_id": 157336,
+        "tmdb_poster": "/9cTfZWP5TfdnmAjiD6ZBXWIJ7O9.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        18,
+        878
+      ]
+    },
+    {
+      "film": "Jumanji",
+      "year": 1996,
+      "song": "Prologue And Main Title",
+      "author": "James Horner",
+      "metadata": {
+        "original_title": "Jumanji",
+        "spotify_track_id": "7g2TbwNJEYIT7rVNezxS3l",
+        "tmdb_id": 8844,
+        "tmdb_poster": "/m67M2wXLKblJLuJlvF7qaGrGfCa.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        14,
+        10751
+      ]
+    },
+    {
+      "film": "Jurassic Park (parque Jurásico)",
+      "year": 1993,
+      "song": "Theme From Jurassic Park",
+      "author": "John Williams",
+      "metadata": {
+        "original_title": "Jurassic Park",
+        "spotify_track_id": "2TZbQZXOuR8osP2AK8yYMN",
+        "tmdb_id": 329,
+        "tmdb_poster": "/h831eszSFmEyr94WKcgscqPIRbh.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        12,
+        878
+      ]
+    },
+    {
+      "film": "Karate Kid, El Momento De La Verdad",
+      "year": 1984,
+      "song": "You're The Best",
+      "author": "Joe \"bean\" Esposito",
+      "metadata": {
+        "original_title": "The Karate Kid",
+        "spotify_track_id": "4zXa17K83Pp6N2yXdVc2sv",
+        "tmdb_id": 1885,
+        "tmdb_poster": "/qupC1Jxss4YH5Y2ZeIB4XXokGcd.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        18,
+        10751
+      ]
+    },
+    {
+      "film": "Kill Bill: Volumen 1",
+      "year": 2004,
+      "song": "Battle Without Honor Or Humanity",
+      "author": "Hotei",
+      "metadata": {
+        "original_title": "Kill Bill: Vol. 1",
+        "spotify_track_id": "6Q32Vkucx2qeuVyBd3NiFZ",
+        "tmdb_id": 24,
+        "tmdb_poster": "/j5HFN6ZbGqZepIQ7sZRX9dMu8uk.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        80
+      ]
+    },
+    {
+      "film": "La Bella Durmiente",
+      "year": 1960,
+      "song": "Eres Tú El Príncipe Azul",
+      "author": "Coros - La Bella Durmiente",
+      "metadata": {
+        "original_title": "Sleeping Beauty",
+        "spotify_track_id": "4d2EiN35xmFmta9A6P8Szu",
+        "tmdb_id": 10882,
+        "tmdb_poster": "/ofoVXR8gBYhV4e0MpRQtSpeXLiK.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        14,
+        16,
+        10749,
+        10751
+      ]
+    },
+    {
+      "film": "La Bella Y La Bestia",
+      "year": 1992,
+      "song": "Bella",
+      "author": "Bely Basarte, Sergi Albert, Elenco - La Bella Y La Bestia",
+      "metadata": {
+        "original_title": "Beauty and the Beast",
+        "spotify_track_id": "3aIWk6cAloGJHiThErsYA4",
+        "tmdb_id": 10020,
+        "tmdb_poster": "/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10749,
+        10751,
+        16,
+        14
+      ]
+    },
+    {
+      "film": "La Cenicienta",
+      "year": 1952,
+      "song": "Cenicienta",
+      "author": "Coro - La Cenicienta",
+      "metadata": {
+        "original_title": "Cinderella",
+        "spotify_track_id": "675IIpWm7w2DSJh4eVB8tI",
+        "tmdb_id": 11224,
+        "tmdb_poster": "/vqzeSm5Agvio7DahhKXaySUbUUW.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10751,
+        14,
+        16,
+        10749
+      ]
+    },
+    {
+      "film": "La Ciudad De Las Estrellas (la La Land)",
+      "year": 2017,
+      "song": "City Of Stars",
+      "author": "Ryan Gosling",
+      "metadata": {
+        "original_title": "La La Land",
+        "spotify_track_id": "5BMwpS4iYKR30kq9U9beaT",
+        "tmdb_id": 313369,
+        "tmdb_poster": "/7pFsAaJmiOppVHcldBzg8JKBHwe.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "La Familia Addams",
+      "year": 1992,
+      "song": "The Addams Family",
+      "author": "Vic Mizzy",
+      "metadata": {
+        "original_title": "The Addams Family",
+        "spotify_track_id": "7BOED8Z0Mu9tsivXSPGGk1",
+        "tmdb_id": 2907,
+        "tmdb_poster": "/ro7bdsSGp1jtvMxSWEfLLCK33PO.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        14
+      ]
+    },
+    {
+      "film": "La Gran Evasión",
+      "year": 1963,
+      "song": "The Great Escape (main Title)",
+      "author": "Elmer Bernstein",
+      "metadata": {
+        "original_title": "The Great Escape",
+        "spotify_track_id": "6R1ZwMtCBuqJyXcqVUSNBF",
+        "tmdb_id": 5925,
+        "tmdb_poster": "/zyXTt4nDNBbS0oULtDuiFpzhA4x.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        18,
+        10752
+      ]
+    },
+    {
+      "film": "La Guerra De Las Galaxias",
+      "year": 1977,
+      "song": "Star Wars Main Title And The Arrival At Naboo",
+      "author": "John Williams, London Symphony Orchestra, London Voices, New London Children's Choir",
+      "metadata": {
+        "original_title": "Star Wars",
+        "spotify_track_id": "3LpheVDaZXkUePlKbZi9Md",
+        "tmdb_id": 11,
+        "tmdb_poster": "/ahT4ObS7XKedQkOSpGr1wQ97aKA.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        28,
+        878
+      ]
+    },
+    {
+      "film": "La Historia Interminable",
+      "year": 1984,
+      "song": "Never Ending Story",
+      "author": "Limahl",
+      "metadata": {
+        "original_title": "Die unendliche Geschichte",
+        "spotify_track_id": "2IAQnOWKWjj1iA166KznVd",
+        "tmdb_id": 34584,
+        "tmdb_poster": "/rXAJUv3QfGxIEo8pVAjRPS58paB.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        14,
+        10751
+      ]
+    },
+    {
+      "film": "La Lista De Schindler",
+      "year": 1994,
+      "song": "Theme From Schindler's List",
+      "author": "John Williams, Itzhak Perlman, Boston Symphony Orchestra",
+      "metadata": {
+        "original_title": "Schindler's List",
+        "spotify_track_id": "42gZM6AQ9BDMaTyTmMDVlN",
+        "tmdb_id": 424,
+        "tmdb_poster": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        36,
+        10752
+      ]
+    },
+    {
+      "film": "La Misión",
+      "year": 1986,
+      "song": "Gabriel's Oboe",
+      "author": "Ennio Morricone",
+      "metadata": {
+        "original_title": "The Mission",
+        "spotify_track_id": "6opPrJUpq4Pl5c84eCwLmo",
+        "tmdb_id": 11416,
+        "tmdb_poster": "/rubwmohm8t5TTtBZyYQ9BHOwDUQ.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        18,
+        28,
+        36
+      ]
+    },
+    {
+      "film": "La Naranja Mecánica",
+      "year": 1975,
+      "song": "A Clockwork Orange (main Title) [from \"a Clockwork Orange\"]",
+      "author": "Gold Rush Studio Orchestra",
+      "metadata": {
+        "original_title": "A Clockwork Orange",
+        "spotify_track_id": "3NQGeHhdlonJjjRm9WolLp",
+        "tmdb_id": 185,
+        "tmdb_poster": "/p40pYh2EBPoyVyqw6qy2PAZkFVA.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        878,
+        80
+      ]
+    },
+    {
+      "film": "La Pantera Rosa",
+      "year": 1963,
+      "song": "The Pink Panther Theme",
+      "author": "Henry Mancini",
+      "metadata": {
+        "original_title": "The Pink Panther",
+        "spotify_track_id": "2hZvunBugBIVF8wPDAIA35",
+        "tmdb_id": 936,
+        "tmdb_poster": "/v9yCA2YBRvdfVlwGuvDJGJGBMrX.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        35,
+        80
+      ]
+    },
+    {
+      "film": "La Sirenita",
+      "year": 1998,
+      "song": "Bajo El Mar - De \"la Sirenita\"/banda Sonora Original",
+      "author": "Vincente Borland, Coro - La Sirenita",
+      "metadata": {
+        "original_title": "The Little Mermaid",
+        "spotify_track_id": "3F32sDOVMpyVWOvIoYv1IM",
+        "tmdb_id": 10144,
+        "tmdb_poster": "/Vc0KvO7z2OzEbRs6nyZs9xD81s.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        14
+      ]
+    },
+    {
+      "film": "La Vida Es Bella",
+      "year": 1999,
+      "song": "Buongiorno Principessa (from \"la Vita È Bella\")",
+      "author": "Nicola Piovani, Luigi Piovano, Archi Di Santa Cecilia",
+      "metadata": {
+        "original_title": "La vita è bella",
+        "spotify_track_id": "45zxRp4Xz2X1CHq39D2csb",
+        "tmdb_id": 637,
+        "tmdb_poster": "/aZ7MFlKPfB02Lr9NwZQ4vsYRgcy.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        18
+      ]
+    },
+    {
+      "film": "Lawrence De Arabia",
+      "year": 1963,
+      "song": "Main Title (from \"lawrence Of Arabia\")",
+      "author": "London Philharmonic Orchestra",
+      "metadata": {
+        "original_title": "Lawrence of Arabia",
+        "spotify_track_id": "2Senxmx6GnCNkRMaXWXm1y",
+        "tmdb_id": 947,
+        "tmdb_poster": "/UmgjvObk7ugIDLLcwJsqNF1TIC.jpg"
+      },
+      "difficulty": 3,
+      "genres": [
+        12,
+        36,
+        10752
+      ]
+    },
+    {
+      "film": "Leyendas De Pasión",
+      "year": 1995,
+      "song": "The Ludlows (from \"legends Of The Fall\" Soundtrack)",
+      "author": "James Horner",
+      "metadata": {
+        "original_title": "Legends of the Fall",
+        "spotify_track_id": "6vtY2LUeXJ7KISwgiTu0Ph",
+        "tmdb_id": 4476,
+        "tmdb_poster": "/fZjjcVq8YTOUSN6PYTIS009FsmW.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        37,
+        10749,
+        10752
+      ]
+    },
+    {
+      "film": "Lo Que El Viento Se Llevó",
+      "year": 1950,
+      "song": "Tara",
+      "author": "Max Steiner",
+      "metadata": {
+        "original_title": "Gone with the Wind",
+        "spotify_track_id": "2twuNa8EX4asJ2Zuvcav6l",
+        "tmdb_id": 770,
+        "tmdb_poster": "/vEMSjJbenWci9TrxxtAPPtk3Mzj.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10752,
+        10749
+      ]
+    },
+    {
+      "film": "Los Aristogatos",
+      "year": 1971,
+      "song": "Todos Quieren Ser Un Gato Jazz",
+      "author": "Esteman, Caloncho, Mon Laferte",
+      "metadata": {
+        "original_title": "The Aristocats",
+        "spotify_track_id": "7JFMaCszgik6Ay4WWeG1i3",
+        "tmdb_id": 10112,
+        "tmdb_poster": "/s9DsxlbVE1HvHnCz50GdHDBeZRy.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        35,
+        10751,
+        12
+      ]
+    },
+    {
+      "film": "Los Cazafantasmas",
+      "year": 1984,
+      "song": "Ghostbusters - From The \"ghostbusters\" Original Motion Picture Soundtrack",
+      "author": "Ray Parker Jr.",
+      "metadata": {
+        "original_title": "Ghostbusters",
+        "spotify_track_id": "0phGofl3ppS5Itk1zM9eKa",
+        "tmdb_id": 620,
+        "tmdb_poster": "/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        35,
+        14
+      ]
+    },
+    {
+      "film": "Los Chicos Del Coro",
+      "year": 2004,
+      "song": "Vois Sur Ton Chemin",
+      "author": "Bruno Coulais, La Maîtrise De Saint Marc - Les Choristes",
+      "metadata": {
+        "original_title": "Les Choristes",
+        "spotify_track_id": "351GNhLMwBwzQsENirhFZN",
+        "tmdb_id": 5528,
+        "tmdb_poster": "/f0FrAsLdcnCbvbT9Ofj31UkmcNe.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        35,
+        10402
+      ]
+    },
+    {
+      "film": "Los Commitments",
+      "year": 1991,
+      "song": "Mustang Sally",
+      "author": "The Commitments, Andrew Strong",
+      "metadata": {
+        "original_title": "The Commitments",
+        "spotify_track_id": "1XlCCgKKrQQfXaDyv4GrZe",
+        "tmdb_id": 11663,
+        "tmdb_poster": "/iccBDq9aS1gwi6b8aJjBgPU4t2D.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        18,
+        10402
+      ]
+    },
+    {
+      "film": "Los Inmortales",
+      "year": 1986,
+      "song": "Princes Of The Universe - Remastered 2011",
+      "author": "Queen",
+      "metadata": {
+        "original_title": "Highlander",
+        "spotify_track_id": "0Uy8lcDHiPDicBQ7rnDgcK",
+        "tmdb_id": 8009,
+        "tmdb_poster": "/5ZxKote3fuIt8woDhVm8Gm51Blf.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        28,
+        14
+      ]
+    },
+    {
+      "film": "Los Intocables De Eliot Ness",
+      "year": 1987,
+      "song": "The Untouchables (end Title)",
+      "author": "Ennio Morricone",
+      "metadata": {
+        "original_title": "The Untouchables",
+        "spotify_track_id": "0nvjvbgCHhRjBv0zIeX1Wi",
+        "tmdb_id": 117,
+        "tmdb_poster": "/pVcWaUbFDL76ObIsReIBQ5ILMHv.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        80,
+        36,
+        53
+      ]
+    },
+    {
+      "film": "Los Odiosos Ocho",
+      "year": 2016,
+      "song": "L'ultima Diligenza Di Red Rock - From \"the Hateful Eight\" Soundtrack / Versione Integrale",
+      "author": "Ennio Morricone",
+      "metadata": {
+        "original_title": "The Hateful Eight",
+        "spotify_track_id": "2cI1OrvqZSGVfkf3PPybWF",
+        "tmdb_id": 273248,
+        "tmdb_poster": "/7DYGdFT4gtiD5BI6xyOU6v0XXvi.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        9648,
+        37
+      ]
+    },
+    {
+      "film": "Los Siete Magníficos",
+      "year": 1961,
+      "song": "The Magnificent Seven",
+      "author": "Elmer Bernstein",
+      "metadata": {
+        "original_title": "The Magnificent Seven",
+        "spotify_track_id": "0lEtONdoCJJwUfmXUS2Zmk",
+        "tmdb_id": 966,
+        "tmdb_poster": "/eu7dxZWlufFOkDV99IzS7Xd7tp.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        37
+      ]
+    },
+    {
+      "film": "Malditos Bastardos",
+      "year": 2009,
+      "song": "The Green Leaves Of Summer - From \"inglourious Basterds\"",
+      "author": "Nick Perito",
+      "metadata": {
+        "original_title": "Inglourious Basterds",
+        "spotify_track_id": "50oQKoR2p1x8Am8d2fetkW",
+        "tmdb_id": 16869,
+        "tmdb_poster": "/dqu7nUtKTLdpM7DaJvD4zcSXhn1.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        53,
+        10752
+      ]
+    },
+    {
+      "film": "Mary Poppins",
+      "year": 1965,
+      "song": "Supercalifragilisticoespialidoso",
+      "author": "La Santa Cecilia",
+      "metadata": {
+        "original_title": "Mary Poppins",
+        "spotify_track_id": "4RpJiMN8lg77qHkFpb9A02",
+        "tmdb_id": 433,
+        "tmdb_poster": "/8hU9v0EYEiAWYOkROcy4iWnSNpl.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        35,
+        10751,
+        14
+      ]
+    },
+    {
+      "film": "Matrix",
+      "year": 1999,
+      "song": "Wake Up",
+      "author": "Rage Against The Machine",
+      "metadata": {
+        "original_title": "The Matrix",
+        "spotify_track_id": "6zbHSDJjgrNdfIxPyGfPBt",
+        "tmdb_id": 603,
+        "tmdb_poster": "/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        878
+      ]
+    },
+    {
+      "film": "Matrix Reloaded",
+      "year": 2003,
+      "song": "Mona Lisa Overdrive",
+      "author": "Juno Reactor",
+      "metadata": {
+        "original_title": "The Matrix Reloaded",
+        "spotify_track_id": "6m7mgnkUOpQGzvaqdIeyye",
+        "tmdb_id": 604,
+        "tmdb_poster": "/7IZk3Xp3HIpRJGXFYNvzmyRwDlt.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        28,
+        53,
+        878
+      ]
+    },
+    {
+      "film": "Memorias De África",
+      "year": 1989,
+      "song": "Main Title (i Had A Farm In Africa)",
+      "author": "John Barry",
+      "metadata": {
+        "original_title": "Out of Africa",
+        "spotify_track_id": "2CVcuBnF52i0gPba28XWgx",
+        "tmdb_id": 606,
+        "tmdb_poster": "/lovoT4KeD7iyKcDMFo8Y8lFtCle.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        36,
+        10749,
+        18
+      ]
+    },
+    {
+      "film": "Misión Imposible",
+      "year": 1996,
+      "song": "Mission Impossible - Main Theme",
+      "author": "Danny Elfman, Artie Kane",
+      "metadata": {
+        "original_title": "Mission: Impossible",
+        "spotify_track_id": "1lJOpbGH9gjjgcIumHIBrT",
+        "tmdb_id": 954,
+        "tmdb_poster": "/xCpmxw3UUjv4PGzbIPOHeoKAV0l.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        28,
+        53
+      ]
+    },
+    {
+      "film": "Mortal Kombat",
+      "year": 1995,
+      "song": "Techno Syndrome (mortal Kombat)",
+      "author": "The Immortals",
+      "metadata": {
+        "original_title": "Mortal Kombat",
+        "spotify_track_id": "2hTx8adLNJBwhLsavI1Xvr",
+        "tmdb_id": 9312,
+        "tmdb_poster": "/yQA2tNUex9usFP4Tp6NEuZNGtxN.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        28,
+        14
+      ]
+    },
+    {
+      "film": "Moulin Rouge",
+      "year": 2001,
+      "song": "Lady Marmalade - From \"moulin Rouge\" Soundtrack",
+      "author": "Christina Aguilera, Lil' Kim, Mýa, P!nk",
+      "metadata": {
+        "original_title": "Moulin Rouge!",
+        "spotify_track_id": "7GbqE3MlkKosIaCvf50JRK",
+        "tmdb_id": 824,
+        "tmdb_poster": "/hE7ovWkqKzPmgrXZhLRIA20Hx6F.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10749,
+        10402
+      ]
+    },
+    {
+      "film": "Mulán",
+      "year": 1998,
+      "song": "Voy A Hacer Todo Un Hombre De Tí",
+      "author": "Pablo Perea, Juan Manuel Escamilla, Miguel Morant, Adel Hakki, José Sánchez Mota, María Caneda, Chorus - Mulan",
+      "metadata": {
+        "original_title": "Mulan",
+        "spotify_track_id": "3wwnCL9mlH3BaVEMm9wTiF",
+        "tmdb_id": 10674,
+        "tmdb_poster": "/towmTJ0k29quKI9IDnOZKAAtQx.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        12
+      ]
+    },
+    {
+      "film": "Oliver Y Su Pandilla",
+      "year": 1989,
+      "song": "Why Should I Worry?",
+      "author": "Billy Joel",
+      "metadata": {
+        "original_title": "Oliver & Company",
+        "spotify_track_id": "0wGh31bYM4IuRdJ7xTvgKN",
+        "tmdb_id": 12233,
+        "tmdb_poster": "/31pu0jSoa6iUouojFnjjlqgOnHB.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        35,
+        10751
+      ]
+    },
+    {
+      "film": "Once (una Vez)",
+      "year": 2007,
+      "song": "Falling Slowly",
+      "author": "Glen Hansard, Markéta Irglová",
+      "metadata": {
+        "original_title": "Once",
+        "spotify_track_id": "6EIVLz5xM1xE29r0OmIkWt",
+        "tmdb_id": 5723,
+        "tmdb_poster": "/7nW363kSYRCkr4VGOMvuSGwtzKs.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10402,
+        10749
+      ]
+    },
+    {
+      "film": "Origen",
+      "year": 2010,
+      "song": "Time",
+      "author": "Hans Zimmer",
+      "metadata": {
+        "original_title": "Inception",
+        "spotify_track_id": "6ZFbXIJkuI1dVNWvzJzown",
+        "tmdb_id": 27205,
+        "tmdb_poster": "/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        878,
+        12
+      ]
+    },
+    {
+      "film": "Pearl Harbor",
+      "year": 2001,
+      "song": "Tennessee",
+      "author": "Hans Zimmer",
+      "metadata": {
+        "original_title": "Pearl Harbor",
+        "spotify_track_id": "2O0UWIMFeMtFR0LJMuIPjJ",
+        "tmdb_id": 676,
+        "tmdb_poster": "/ftkKVbk4sQEcekuaGJvpvXcNs32.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10752,
+        10749,
+        36,
+        28
+      ]
+    },
+    {
+      "film": "Pesadilla Antes De Navidad",
+      "year": 1994,
+      "song": "This Is Halloween",
+      "author": "Danny Elfman",
+      "metadata": {
+        "original_title": "The Nightmare Before Christmas",
+        "spotify_track_id": "1CYjYSg9sdtbBoxSf8uhFD",
+        "tmdb_id": 9479,
+        "tmdb_poster": "/pqFPpQ77VZ0moRgRRsxx7p39CS3.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        14,
+        16,
+        10751
+      ]
+    },
+    {
+      "film": "Peter Pan",
+      "year": 2021,
+      "song": "La Estrella Que Nos Vió Nacer (tema Principal)",
+      "author": "Chorus - Peter Pan",
+      "metadata": {
+        "original_title": "Peter Pan",
+        "spotify_track_id": "1JVq9ynobUyXYxqohVEGrH",
+        "tmdb_id": 10693,
+        "tmdb_poster": "/tDvGRWSdqT31ADijJf9OhbTbQ77.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        12,
+        14
+      ]
+    },
+    {
+      "film": "Philadelphia",
+      "year": 1993,
+      "song": "Streets Of Philadelphia",
+      "author": "Bruce Springsteen",
+      "metadata": {
+        "original_title": "Philadelphia",
+        "spotify_track_id": "5Nj8kBJdpJJ4I9wxQyp8JH",
+        "tmdb_id": 9800,
+        "tmdb_poster": "/jATwMlaz93jKzT8K5SlW3sRUpDb.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18
+      ]
+    },
+    {
+      "film": "Pink Floyd: El Muro",
+      "year": 1983,
+      "song": "Another Brick In The Wall, Pt. 1",
+      "author": "Pink Floyd",
+      "metadata": {
+        "original_title": "Pink Floyd: The Wall",
+        "spotify_track_id": "7K6xMPtAjTuLPNlJMLf5bS",
+        "tmdb_id": 12104,
+        "tmdb_poster": "/aqiDo8D4NHLrrUxckA7zWcrN6aY.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10402,
+        18
+      ]
+    },
+    {
+      "film": "Pinocho",
+      "year": 1944,
+      "song": "La Estrella Azul",
+      "author": "Pablo Palos",
+      "metadata": {
+        "original_title": "Pinocchio",
+        "spotify_track_id": "2tkzxWAX2ya9IriKhEwNOA",
+        "tmdb_id": 10895,
+        "tmdb_poster": "/sAluF7lNc4Mv3qxx1mmOgsfbr0C.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        14
+      ]
+    },
+    {
+      "film": "Piratas Del Caribe: La Maldición De La Perla Negra",
+      "year": 2003,
+      "song": "He's A Pirate",
+      "author": "Klaus Badelt",
+      "metadata": {
+        "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "spotify_track_id": "4AD2dterIUjNt1LFNI9Bvi",
+        "tmdb_id": 22,
+        "tmdb_poster": "/bVG48kmXuLaZYgPfSCmhs6EYFbX.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        12,
+        14,
+        28
+      ]
+    },
+    {
+      "film": "Platoon",
+      "year": 1987,
+      "song": "Barber: Adagio For Strings, Op. 11 - Extract",
+      "author": "Academy Of St. Martin In The Fields, Sir Neville Marriner",
+      "metadata": {
+        "original_title": "Platoon",
+        "spotify_track_id": "3n54EnQoFQZVTmAEBshgEZ",
+        "tmdb_id": 792,
+        "tmdb_poster": "/Aeo2CHf8oWQzxAw4QpB43YfqxEF.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10752,
+        28
+      ]
+    },
+    {
+      "film": "Pocahontas",
+      "year": 1995,
+      "song": "Colores En El Viento",
+      "author": "Susana Zavaleta",
+      "metadata": {
+        "original_title": "Pocahontas",
+        "spotify_track_id": "7AsZ5WyFcF0vGRdkPl0F87",
+        "tmdb_id": 10530,
+        "tmdb_poster": "/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        16,
+        10751,
+        10749
+      ]
+    },
+    {
+      "film": "Pretty Woman",
+      "year": 1990,
+      "song": "Oh, Pretty Woman",
+      "author": "Roy Orbison",
+      "metadata": {
+        "original_title": "Pretty Woman",
+        "spotify_track_id": "52HAHV1j93s5B8GoTNI7DJ",
+        "tmdb_id": 114,
+        "tmdb_poster": "/iKaKr8aUqOy1aojENu5XuwBI8Uj.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10749,
+        35
+      ]
+    },
+    {
+      "film": "Prince: Purple Rain",
+      "year": 1984,
+      "song": "Purple Rain",
+      "author": "Prince",
+      "metadata": {
+        "original_title": "Purple Rain",
+        "spotify_track_id": "54X78diSLoUDI3joC2bjMz",
+        "tmdb_id": 13763,
+        "tmdb_poster": "/vkQmzaSuDj8QyXmwNhCceCAmwUe.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10402,
+        10749
+      ]
+    },
+    {
+      "film": "Pulp Fiction",
+      "year": 1995,
+      "song": "Miserlou",
+      "author": "Dick Dale",
+      "metadata": {
+        "original_title": "Pulp Fiction",
+        "spotify_track_id": "1MLUxFwS1d4eY0JWIEkn4X",
+        "tmdb_id": 680,
+        "tmdb_poster": "/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        53,
+        80,
+        35
+      ]
+    },
+    {
+      "film": "Ratatouille",
+      "year": 2007,
+      "song": "Le Festin",
+      "author": "Camille, Michael Giacchino",
+      "metadata": {
+        "original_title": "Ratatouille",
+        "spotify_track_id": "02JIdsrod3BYucThfUFDUX",
+        "tmdb_id": 2062,
+        "tmdb_poster": "/nGUelOVetiRpY2wTBMHTbrTIGYC.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        35,
+        10751,
+        14
+      ]
+    },
+    {
+      "film": "Regreso Al Futuro",
+      "year": 1985,
+      "song": "Back To The Future",
+      "author": "The Outatime Orchestra",
+      "metadata": {
+        "original_title": "Back to the Future",
+        "spotify_track_id": "5X7TqFJySUyxjUyKorkdXF",
+        "tmdb_id": 105,
+        "tmdb_poster": "/owk40tn1sFJmC7bhamEpmhdZPKa.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        35,
+        878
+      ]
+    },
+    {
+      "film": "Réquiem Por Un Sueño",
+      "year": 2001,
+      "song": "Lux Aeterna",
+      "author": "Clint Mansell, Kronos Quartet",
+      "metadata": {
+        "original_title": "Requiem for a Dream",
+        "spotify_track_id": "62Da3JOu9H9EIgmqV7DoLG",
+        "tmdb_id": 641,
+        "tmdb_poster": "/2B5brHMhaHN1d9KmdeZI6RlU3aE.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        80,
+        18
+      ]
+    },
+    {
+      "film": "Reservoir Dogs",
+      "year": 1992,
+      "song": "Stuck In The Middle With You",
+      "author": "Stealers Wheel",
+      "metadata": {
+        "original_title": "Reservoir Dogs",
+        "spotify_track_id": "1b7LMtXCXGc2EwOIplI35z",
+        "tmdb_id": 500,
+        "tmdb_poster": "/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        80,
+        53
+      ]
+    },
+    {
+      "film": "Robin Hood",
+      "year": 1982,
+      "song": "Oo-de-lally - From \"robin Hood\"",
+      "author": "Roger Miller",
+      "metadata": {
+        "original_title": "Robin Hood",
+        "spotify_track_id": "0mWXrr6HQZUhCQG4JMkT2e",
+        "tmdb_id": 11886,
+        "tmdb_poster": "/49XBX5xwFrJVP1bQLJf4MFFOavZ.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        12
+      ]
+    },
+    {
+      "film": "Robin Hood, Príncipe De Los Ladrones",
+      "year": 1991,
+      "song": "(everything I Do) I Do It For You",
+      "author": "Bryan Adams",
+      "metadata": {
+        "original_title": "Robin Hood: Prince of Thieves",
+        "spotify_track_id": "5HQ6AUDMbMuwktvcNPuV1y",
+        "tmdb_id": 8367,
+        "tmdb_poster": "/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        12,
+        18
+      ]
+    },
+    {
+      "film": "Rocky",
+      "year": 1976,
+      "song": "Gonna Fly Now - Theme From \"rocky\"",
+      "author": "Bill Conti",
+      "metadata": {
+        "original_title": "Rocky",
+        "spotify_track_id": "7iXYRR70wewzVYzWScm99j",
+        "tmdb_id": 1187746,
+        "tmdb_poster": "/hF8FLjZoZNYun6CHGaWqly6JtM7.jpg"
+      },
+      "difficulty": 1,
+      "genres": []
+    },
+    {
+      "film": "Rocky Iii",
+      "year": 1982,
+      "song": "Eye Of The Tiger",
+      "author": "Survivor",
+      "metadata": {
+        "original_title": "Rocky III",
+        "spotify_track_id": "2HHtWyy5CgaQbC7XSoOb0e",
+        "tmdb_id": 1371,
+        "tmdb_poster": "/5Mn0xgB8w9mi2Ifo7WdS8aSgA7V.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        18
+      ]
+    },
+    {
+      "film": "Rocky Iv",
+      "year": 1986,
+      "song": "Hearts On Fire - From The Film, \"rocky Iv\"",
+      "author": "John Cafferty",
+      "metadata": {
+        "original_title": "Rocky IV",
+        "spotify_track_id": "5vI0C3TDTxySR6Oq8NWjE0",
+        "tmdb_id": 1374,
+        "tmdb_poster": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        18
+      ]
+    },
+    {
+      "film": "Saludos Amigos",
+      "year": 2020,
+      "song": "Saludos Amigos - From \"saludos Amigos\"",
+      "author": "Studio Chorus - Saludos Amigos",
+      "metadata": {
+        "original_title": "Saludos Amigos",
+        "spotify_track_id": "58NywJgcHVLXrndCpLATvg",
+        "tmdb_id": 14906,
+        "tmdb_poster": "/AqNjU3PS1WCKZIIVK9o8l0s7ltH.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        12,
+        10402,
+        99
+      ]
+    },
+    {
+      "film": "Shrek",
+      "year": 2026,
+      "song": "All Star",
+      "author": "Smash Mouth",
+      "metadata": {
+        "original_title": "Shrek",
+        "spotify_track_id": "2t0NfhRIiib6zlCw2XlHoq",
+        "tmdb_id": 808,
+        "tmdb_poster": "/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        35,
+        14,
+        12,
+        10751
+      ]
+    },
+    {
+      "film": "Skyfall",
+      "year": 2012,
+      "song": "Skyfall",
+      "author": "Adele",
+      "metadata": {
+        "original_title": "Skyfall",
+        "spotify_track_id": "6VObnIkLVruX4UVyxWhlqm",
+        "tmdb_id": 37724,
+        "tmdb_poster": "/lz5kTkm3az7Ww0uTLRvCGgudnaa.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        12,
+        53
+      ]
+    },
+    {
+      "film": "Sonrisas Y Lágrimas",
+      "year": 1965,
+      "song": "My Favorite Things",
+      "author": "Julie Andrews",
+      "metadata": {
+        "original_title": "The Sound of Music",
+        "spotify_track_id": "5bC3Elhc2z2mIjB8WPeSZv",
+        "tmdb_id": 15121,
+        "tmdb_poster": "/3mYxH1mwSmNoyZF4xvDvcEpH18F.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        10751,
+        10402,
+        10749
+      ]
+    },
+    {
+      "film": "Space Jam",
+      "year": 1997,
+      "song": "I Believe I Can Fly",
+      "author": "R. Kelly",
+      "metadata": {
+        "original_title": "Space Jam",
+        "spotify_track_id": "3PCXLtid4Y3BGdCBW0pDEG",
+        "tmdb_id": 2300,
+        "tmdb_poster": "/i5QYBFIIrh6PngEsCj5fGX7gcI7.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10751,
+        16,
+        878,
+        14,
+        35
+      ]
+    },
+    {
+      "film": "Spider-man",
+      "year": 2002,
+      "song": "Main Title",
+      "author": "Danny Elfman",
+      "metadata": {
+        "original_title": "Spider-Man",
+        "spotify_track_id": "0U6lmEhmRVptZAX7HrauqG",
+        "tmdb_id": 557,
+        "tmdb_poster": "/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        878
+      ]
+    },
+    {
+      "film": "Superman",
+      "year": 1979,
+      "song": "Theme From Superman - Concert Version",
+      "author": "John Williams",
+      "metadata": {
+        "original_title": "Superman",
+        "spotify_track_id": "4tABZngfyleLXr5wxHgRxZ",
+        "tmdb_id": 1924,
+        "tmdb_poster": "/sYJGXqaDQzJ2qu2bhMDyTFtww7q.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        878,
+        28,
+        12
+      ]
+    },
+    {
+      "film": "Tarzán",
+      "year": 1999,
+      "song": "En Mi Corazón Vivirás (versión De Phil) - De \"tarzan\"",
+      "author": "Phil Collins",
+      "metadata": {
+        "original_title": "Tarzan",
+        "spotify_track_id": "7tgR5zkdJzZc5OgMBwhwwx",
+        "tmdb_id": 37135,
+        "tmdb_poster": "/1Gk8iihu4Q4BGh2n1IwNLB3zM8E.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        10751,
+        12
+      ]
+    },
+    {
+      "film": "Terminator",
+      "year": 1985,
+      "song": "Main Title - The Terminator",
+      "author": "Brad Fiedel",
+      "metadata": {
+        "original_title": "The Terminator",
+        "spotify_track_id": "6jNFXIiJDOvSzFqQOk0Gt9",
+        "tmdb_id": 218,
+        "tmdb_poster": "/9KI49SBnwAOzGcMw1onIki7vd2.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        53,
+        878
+      ]
+    },
+    {
+      "film": "The Rocky Horror Picture Show",
+      "year": 1978,
+      "song": "Time Warp",
+      "author": "Little Nell, Patricia Quinn, Richard O'brien",
+      "metadata": {
+        "original_title": "The Rocky Horror Picture Show",
+        "spotify_track_id": "4WFeJTXNHIS2wURtwlAkhu",
+        "tmdb_id": 36685,
+        "tmdb_poster": "/6xJuXrwpXHCJW51d3EJHGj3ZbM2.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        35,
+        878,
+        27
+      ]
+    },
+    {
+      "film": "Tiburón",
+      "year": 1975,
+      "song": "Main Title (theme From Jaws) - From \"jaws\"",
+      "author": "John Williams",
+      "metadata": {
+        "original_title": "Jaws",
+        "spotify_track_id": "55xly70WJY1cx5qsoogaqs",
+        "tmdb_id": 578,
+        "tmdb_poster": "/aCqHb3eFQV8raX30OfGurqPlpjh.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        27,
+        53,
+        12
+      ]
+    },
+    {
+      "film": "Titanic",
+      "year": 1998,
+      "song": "My Heart Will Go On - Love Theme From \"titanic\"",
+      "author": "Céline Dion, James Horner",
+      "metadata": {
+        "original_title": "Titanic",
+        "spotify_track_id": "7F1yVPuJ4xRdrDvf8OL0HF",
+        "tmdb_id": 597,
+        "tmdb_poster": "/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Top Gun: Ídolos Del Aire",
+      "year": 1986,
+      "song": "Danger Zone - From \"top Gun\" Original Soundtrack",
+      "author": "Kenny Loggins",
+      "metadata": {
+        "original_title": "Top Gun",
+        "spotify_track_id": "3hMHG6lx9QHVcfYSUr5PoM",
+        "tmdb_id": 744,
+        "tmdb_poster": "/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg"
+      },
+      "difficulty": 1,
+      "genres": [
+        28,
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Toy Story",
+      "year": 1996,
+      "song": "Hay Un Amigo En Mí",
+      "author": "Tony Cruz",
+      "metadata": {
+        "original_title": "Toy Story",
+        "spotify_track_id": "5xo6EfJOJhQGHIHv2RBIpB",
+        "tmdb_id": 862,
+        "tmdb_poster": "/jvn7wy3RSNEXnFSXLpH2of2LcV6.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        10751,
+        35,
+        16,
+        12
+      ]
+    },
+    {
+      "film": "Trainspotting",
+      "year": 1996,
+      "song": "Lust For Life",
+      "author": "Iggy Pop",
+      "metadata": {
+        "original_title": "Trainspotting",
+        "spotify_track_id": "21YxK0klhpfLW8budkJaMF",
+        "tmdb_id": 627,
+        "tmdb_poster": "/qN6MomkBcDx0QilCagcwhPBgXU3.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        18,
+        80
+      ]
+    },
+    {
+      "film": "Up",
+      "year": 2009,
+      "song": "Married Life",
+      "author": "Michael Giacchino",
+      "metadata": {
+        "original_title": "Up",
+        "spotify_track_id": "7iocNjLrxPHLl8njgRlv5U",
+        "tmdb_id": 14160,
+        "tmdb_poster": "/1N0LtzUueXrlnpL466jQBJ6iAuj.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        16,
+        35,
+        10751,
+        12
+      ]
+    },
+    {
+      "film": "Vaiana",
+      "year": 2016,
+      "song": "Qué Hay Más Allá",
+      "author": "María Parrado",
+      "metadata": {
+        "original_title": "Moana",
+        "spotify_track_id": "6orRFPOpyksp2Hgh7KDehQ",
+        "tmdb_id": 277834,
+        "tmdb_poster": "/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        12,
+        35,
+        10751,
+        16
+      ]
+    },
+    {
+      "film": "West Side Story (amor Sin Barreras)",
+      "year": 1963,
+      "song": "West Side Story: Act I: America",
+      "author": "Leonard Bernstein, West Side Story Ensemble (original Motion Picture Soundtrack), Johnny Green, West Side Story Orchestra",
+      "metadata": {
+        "original_title": "West Side Story",
+        "spotify_track_id": "1RZ6jzlPeEaDeKYe7IJ792",
+        "tmdb_id": 1725,
+        "tmdb_poster": "/AejrmDDmafBvaOLXWNct9fbJnZt.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        80,
+        18,
+        10749
+      ]
+    },
+    {
+      "film": "Wonder Woman",
+      "year": 2017,
+      "song": "Is She With You? (from \"batman V Superman: Dawn Of Justice\" Soundtrack)",
+      "author": "Hans Zimmer, Junkie Xl",
+      "metadata": {
+        "original_title": "Wonder Woman",
+        "spotify_track_id": "47q8TxNygd1EV89Kq7uwe2",
+        "tmdb_id": 297762,
+        "tmdb_poster": "/skVHFykCQrEwQJdrpUHgJbvqo1u.jpg"
+      },
+      "difficulty": 2,
+      "genres": [
+        28,
+        12,
+        14
+      ]
+    }
+  ]
+}
